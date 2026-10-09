@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "markdown_files": 624,
+  "images_checked": 277,
+  "chapters_in_inventory": 50,
+  "chapters_structurally_checked": 50,
+  "appendices_checked": 7,
+  "pdf_pages_covered": 500,
+  "sections": 485,
+  "errors": [],
+  "scope": "结构、图片与生成一致性；不等同于全书内容审校"
+}

@@ -1,0 +1,10 @@
+<div class="part-overview">
+  <a class="part-start" href="{{ book.chapters[0].url | url }}">开始阅读<span aria-hidden="true">↗</span></a>
+  <div class="part-list-heading">本部分章节<span>点击章节，直接开始阅读</span></div>
+  <ol class="part-chapters" aria-label="{{ book.display_title }}章节">
+    {% for chapter in book.chapters %}
+    <li><a href="{{ chapter.url | url }}"><span class="part-number">{{ chapter.number }}</span><span class="part-title">{{ chapter.title }}</span><span class="part-arrow" aria-hidden="true">↗</span></a></li>
+    {% endfor %}
+  </ol>
+  <p class="part-source"><a href="{{ book.source_url | url }}">查看原书扉页<span aria-hidden="true"> ↗</span></a></p>
+</div>

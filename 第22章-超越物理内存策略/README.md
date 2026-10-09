@@ -1,0 +1,20 @@
+# 第 22 章 超越物理内存：策略
+
+[整章连续阅读](chapter.md) · [全书目录](../目录.md)
+
+- [第 22 章 超越物理内存：策略](sections/introduction.md)
+- [22.1 缓存管理](sections/22.1.md)
+- [22.2 最优替换策略](sections/22.2.md)
+- [22.3 简单策略：FIFO](sections/22.3.md)
+- [22.4 另一简单策略：随机](sections/22.4.md)
+- [22.5 利用历史数据：LRU](sections/22.5.md)
+- [22.6 工作负载示例](sections/22.6.md)
+- [22.7 实现基于历史信息的算法](sections/22.7.md)
+- [22.8 近似LRU](sections/22.8.md)
+- [22.9 考虑脏页](sections/22.9.md)
+- [22.10 其他虚拟内存策略](sections/22.10.md)
+- [22.11 抖动](sections/22.11.md)
+- [22.12 小结](sections/22.12.md)
+- [参考资料](sections/references.md)
+- [作业](sections/homework.md)
+- [问题](sections/section-15.md)

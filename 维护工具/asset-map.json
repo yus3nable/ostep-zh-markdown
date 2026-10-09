@@ -1,0 +1,4371 @@
+[
+  {
+    "path": "第18章-分页介绍/assets/fig-18-1-address-space.png",
+    "pdf_page": 151,
+    "printed_page": 133,
+    "xref": 648,
+    "width": 1198,
+    "height": 697,
+    "sha256": "bf63ccbbb3ae85478bfb839f0894185dd6f0cc300205b74ea997d623a79f9a4c"
+  },
+  {
+    "path": "第18章-分页介绍/assets/fig-18-2-physical-memory.png",
+    "pdf_page": 151,
+    "printed_page": 133,
+    "xref": 649,
+    "width": 1232,
+    "height": 1282,
+    "sha256": "252a1f6e63e214adde92e0207caa99ad4fd0726702aae988cd06d6c01e9042c9"
+  },
+  {
+    "path": "第18章-分页介绍/assets/virtual-address-bits.png",
+    "pdf_page": 151,
+    "printed_page": 133,
+    "xref": 650,
+    "width": 904,
+    "height": 154,
+    "sha256": "6afc1d674947ec8be40ad952f43fdba611a4cdafa860bcdb59e9421b0159f7f4"
+  },
+  {
+    "path": "第18章-分页介绍/assets/vpn-offset-bits.png",
+    "pdf_page": 151,
+    "printed_page": 133,
+    "xref": 651,
+    "width": 904,
+    "height": 302,
+    "sha256": "45598e6df4d36e6ceb40aa0d98acc14db1771b8e3439cdc6b41e8631254fcb67"
+  },
+  {
+    "path": "第18章-分页介绍/assets/address-21-bits.png",
+    "pdf_page": 152,
+    "printed_page": 134,
+    "xref": 655,
+    "width": 904,
+    "height": 289,
+    "sha256": "b7867564e95accb3e96de02ebf2a5e7df18aa8d001ee7b3352cc3bd93600a6cb"
+  },
+  {
+    "path": "第18章-分页介绍/assets/fig-18-3-translation.png",
+    "pdf_page": 152,
+    "printed_page": 134,
+    "xref": 656,
+    "width": 1285,
+    "height": 1142,
+    "sha256": "4a432ed47fee86258c157529271275be28d0016614a43319dca65de358408cba"
+  },
+  {
+    "path": "第18章-分页介绍/assets/fig-18-4-page-table.png",
+    "pdf_page": 153,
+    "printed_page": 135,
+    "xref": 660,
+    "width": 1147,
+    "height": 1280,
+    "sha256": "c272cb9eff31b99fe9b019329adefc416087acd073cb0765defe90b5b6fa1cee"
+  },
+  {
+    "path": "第18章-分页介绍/assets/fig-18-5-x86-pte.png",
+    "pdf_page": 154,
+    "printed_page": 136,
+    "xref": 664,
+    "width": 2838,
+    "height": 249,
+    "sha256": "a9b1a01fc326dfe90fc16f756672856f74fdfc5fe3525638442289c0428b8666"
+  },
+  {
+    "path": "第18章-分页介绍/assets/fig-18-7-memory-trace.png",
+    "pdf_page": 157,
+    "printed_page": 139,
+    "xref": 674,
+    "width": 2168,
+    "height": 1761,
+    "sha256": "196f3ea8ae7a21d5a914f73c8929a3cf7b69fc0fa537f152ff1cc5a1a0cd6e07"
+  },
+  {
+    "path": "书前与导语/封面/assets/p001-original-page.png",
+    "pdf_page": 1,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "5e51c26d844eaf72edfeab76af4c0f5c05385b68049318c24200591dd9530cdf"
+  },
+  {
+    "path": "书前与导语/扉页/assets/p002-original-page.png",
+    "pdf_page": 2,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "20352850d4ea583f315df7bd32cd54f98f8de2a2e5ec1cb903816c280e4f5d9a"
+  },
+  {
+    "path": "书前与导语/版权声明/assets/p003-original-page.png",
+    "pdf_page": 3,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "71d282da57bd4912ec5b5270fb593d844aa5387fed3f616811375286f7a0a15a"
+  },
+  {
+    "path": "书前与导语/资源与支持/assets/p011-image-1.png",
+    "pdf_page": 11,
+    "printed_page": null,
+    "kind": "original_image",
+    "bbox": [
+      111.42,
+      498.26,
+      413.07,
+      665.93
+    ],
+    "xref": 66,
+    "width": 653,
+    "height": 346,
+    "sha256": "bd3edec8250fedf718abf8c97324c194664688eccba668bb5f766c392c82e9be"
+  },
+  {
+    "path": "书前与导语/资源与支持/assets/p012-image-1.png",
+    "pdf_page": 12,
+    "printed_page": null,
+    "kind": "original_image",
+    "bbox": [
+      229.17,
+      125.3,
+      295.65,
+      191.78
+    ],
+    "xref": null,
+    "width": 168,
+    "height": 167,
+    "sha256": "6233dda0a565bc0b02e53efc71c386afb1a07228a5302071c489d7aeba7ec007"
+  },
+  {
+    "path": "书前与导语/资源与支持/assets/p012-image-2.png",
+    "pdf_page": 12,
+    "printed_page": null,
+    "kind": "original_image",
+    "bbox": [
+      154.11,
+      597.71,
+      212.07,
+      655.67
+    ],
+    "xref": null,
+    "width": 146,
+    "height": 146,
+    "sha256": "12dc5a9c59078851c90fb177069adfcea871efab863749c9f2d7f3c1277d6b70"
+  },
+  {
+    "path": "书前与导语/资源与支持/assets/p012-image-3.png",
+    "pdf_page": 12,
+    "printed_page": null,
+    "kind": "original_image",
+    "bbox": [
+      312.39,
+      597.74,
+      370.38,
+      655.64
+    ],
+    "xref": null,
+    "width": 146,
+    "height": 146,
+    "sha256": "c886f0685c8ef03669f51f88bc26a080dae8d08f08e59eb7f5642d30015a9ec5"
+  },
+  {
+    "path": "书前与导语/目录/assets/p013-original-page.png",
+    "pdf_page": 13,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "a29c6cd195a611f63880241132aa8af1588a5c26ce284a2baefcfcb1cb94f36d"
+  },
+  {
+    "path": "书前与导语/目录/assets/p014-original-page.png",
+    "pdf_page": 14,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "67511531be520222bf5ee3206af9b325959e81ba2d2d549f17bfa66234435725"
+  },
+  {
+    "path": "书前与导语/目录/assets/p015-original-page.png",
+    "pdf_page": 15,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "8e5657e5f140cad8143374873cfac2e079e940e0b8a7748afc127292a73e236c"
+  },
+  {
+    "path": "书前与导语/目录/assets/p016-original-page.png",
+    "pdf_page": 16,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "b80d6b310b07ea40cfd9bed5fcb5e4e9f23e097701244ec25303fdce63078c6c"
+  },
+  {
+    "path": "书前与导语/目录/assets/p017-original-page.png",
+    "pdf_page": 17,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "d5c47768c8a48bf8fe297f162dbda9a32484b45387069687ddd00ca413a65808"
+  },
+  {
+    "path": "书前与导语/目录/assets/p018-original-page.png",
+    "pdf_page": 18,
+    "printed_page": null,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "a02b11207edc8813d3b1abef138a0172da8d39f036ba7c4e8d7a6ec4b78128f0"
+  },
+  {
+    "path": "书前与导语/第一部分-虚拟化/assets/p035-original-page.png",
+    "pdf_page": 35,
+    "printed_page": 17,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "a3253b6898ae7471848fb3389c315f9a3608a2f6c688e38dc1eaee3b1932ee21"
+  },
+  {
+    "path": "第04章-抽象进程/assets/p039-image-1.png",
+    "pdf_page": 39,
+    "printed_page": 21,
+    "kind": "original_image",
+    "bbox": [
+      157.95,
+      297.83,
+      366.51,
+      525.92
+    ],
+    "xref": 180,
+    "width": 1738,
+    "height": 1901,
+    "sha256": "2ee5cca62a0e7d3d099968342683873de3f0798c8d62c94b875d9598f2556736"
+  },
+  {
+    "path": "第04章-抽象进程/assets/p040-image-1.png",
+    "pdf_page": 40,
+    "printed_page": 22,
+    "kind": "original_image",
+    "bbox": [
+      332.76,
+      544.7,
+      462.72,
+      655.19
+    ],
+    "xref": 184,
+    "width": 1083,
+    "height": 921,
+    "sha256": "c71872e307ffcd93e0098124b7c7b1b9761fc76b0d06f2f5202b97865076180c"
+  },
+  {
+    "path": "第04章-抽象进程/assets/p041-table-1.png",
+    "pdf_page": 41,
+    "printed_page": 23,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.02,
+      143.04,
+      468.63,
+      288.44
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 365,
+    "sha256": "968130261f174ffdfab428f05af8bf7ecc4bf515915cc8cffdcaaf78a232b2be"
+  },
+  {
+    "path": "第04章-抽象进程/assets/p041-table-2.png",
+    "pdf_page": 41,
+    "printed_page": 23,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.02,
+      352.74,
+      468.63,
+      530.33
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 445,
+    "sha256": "ef559862c653837d72a4e48815716223fac047602649eb55364ccebc4300db78"
+  },
+  {
+    "path": "第06章-机制受限直接执行/assets/p055-table-2.png",
+    "pdf_page": 55,
+    "printed_page": 37,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      533.61,
+      469.36,
+      676.18
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 357,
+    "sha256": "c990799b851b91298b71c4ac8c6cd042866e76b0f7449ca167a69e8d9f15551a"
+  },
+  {
+    "path": "第06章-机制受限直接执行/assets/p058-table-1.png",
+    "pdf_page": 58,
+    "printed_page": 40,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      106.83,
+      468.6,
+      489.01
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 956,
+    "sha256": "dcbd3c8f777ce8b8ae635af659cbef29b2d3c3e1d30b3c49dfff6a3810283bf1"
+  },
+  {
+    "path": "第06章-机制受限直接执行/assets/p061-table-1.png",
+    "pdf_page": 61,
+    "printed_page": 43,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      187.83,
+      468.6,
+      483.01
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 739,
+    "sha256": "387285bec9f4e261f64557c952558cf326fadcaac969051d130cba2ba2ba3b3c"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p067-formula-1.png",
+    "pdf_page": 67,
+    "printed_page": 49,
+    "kind": "formula_facsimile",
+    "bbox": [
+      203.82,
+      196.56,
+      467.49,
+      214.18
+    ],
+    "xref": null,
+    "width": 660,
+    "height": 45,
+    "sha256": "dff3a8dfedcd8f823a66ff17eb1dab74e97f41b247914eeceaf67147cd4f4ba6"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p068-image-1.png",
+    "pdf_page": 68,
+    "printed_page": 50,
+    "kind": "original_image",
+    "bbox": [
+      78.0,
+      69.77,
+      241.11,
+      134.48
+    ],
+    "xref": 279,
+    "width": 1359,
+    "height": 539,
+    "sha256": "14445ed10f20ac7074068b679a5b23e73838e01f11bba72eb3a2c3f641d3135c"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p068-image-2.png",
+    "pdf_page": 68,
+    "printed_page": 50,
+    "kind": "original_image",
+    "bbox": [
+      283.35,
+      69.44,
+      446.46,
+      134.48
+    ],
+    "xref": 280,
+    "width": 1359,
+    "height": 542,
+    "sha256": "09e9c7d0e55163d62cde1c57f93003d11052258b07eb37dcea1a208583c06706"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p069-image-1.png",
+    "pdf_page": 69,
+    "printed_page": 51,
+    "kind": "original_image",
+    "bbox": [
+      82.59,
+      207.2,
+      245.7,
+      272.24
+    ],
+    "xref": 284,
+    "width": 1359,
+    "height": 542,
+    "sha256": "a64089f23bdea12d321e020e68b3d11064c4e246fce2133f7cdd63a61b02936d"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p069-image-2.png",
+    "pdf_page": 69,
+    "printed_page": 51,
+    "kind": "original_image",
+    "bbox": [
+      277.38,
+      196.64,
+      441.87,
+      272.24
+    ],
+    "xref": 285,
+    "width": 1371,
+    "height": 630,
+    "sha256": "16d4e4519605dc8017743af3996d43dd555dd3f40c36a6852afcf04446f1f3fa"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p069-image-3.png",
+    "pdf_page": 69,
+    "printed_page": 51,
+    "kind": "original_image",
+    "bbox": [
+      298.08,
+      526.13,
+      462.72,
+      601.01
+    ],
+    "xref": 286,
+    "width": 1372,
+    "height": 624,
+    "sha256": "65dfcdbdb20d621873291b3017c43887890b9ad2d57cefea94365bc0bd45236d"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p070-image-1.png",
+    "pdf_page": 70,
+    "printed_page": 52,
+    "kind": "original_image",
+    "bbox": [
+      82.44,
+      552.32,
+      243.75,
+      616.76
+    ],
+    "xref": 290,
+    "width": 1344,
+    "height": 537,
+    "sha256": "84cc34d8053e9902c05b1a8d6f7f782903eb4c9da9bab02569efd1612b6220b5"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p070-image-2.png",
+    "pdf_page": 70,
+    "printed_page": 52,
+    "kind": "original_image",
+    "bbox": [
+      280.71,
+      552.05,
+      442.02,
+      616.76
+    ],
+    "xref": 291,
+    "width": 1344,
+    "height": 539,
+    "sha256": "732524333a5c99f3bd9d88c491c60277492d8a35713dbb7c9b6574a3a334c24f"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p070-formula-1.png",
+    "pdf_page": 70,
+    "printed_page": 52,
+    "kind": "formula_facsimile",
+    "bbox": [
+      203.82,
+      213.72,
+      467.49,
+      231.34
+    ],
+    "xref": null,
+    "width": 660,
+    "height": 45,
+    "sha256": "6b6d9e0d1861705c0062c1eacea7e619ce132d57429a240b52bb216786d0d423"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p072-image-1.png",
+    "pdf_page": 72,
+    "printed_page": 54,
+    "kind": "original_image",
+    "bbox": [
+      86.1,
+      463.31,
+      233.19,
+      531.62
+    ],
+    "xref": 298,
+    "width": 1222,
+    "height": 569,
+    "sha256": "b93f2a1d80225d42f1d9ccd30eb5a533abdc7a5479f67fa99acff8032e58d960"
+  },
+  {
+    "path": "第07章-进程调度介绍/assets/p072-image-2.png",
+    "pdf_page": 72,
+    "printed_page": 54,
+    "kind": "original_image",
+    "bbox": [
+      291.27,
+      463.19,
+      438.36,
+      531.62
+    ],
+    "xref": 299,
+    "width": 1226,
+    "height": 568,
+    "sha256": "fe1170a80fd34a7e1653d720366fa7e7a6a02769bd4e12c3baa5e20b2c6e21e2"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p076-image-1.png",
+    "pdf_page": 76,
+    "printed_page": 58,
+    "kind": "original_image",
+    "bbox": [
+      342.24,
+      170.33,
+      465.15,
+      312.41
+    ],
+    "xref": 320,
+    "width": 1024,
+    "height": 1184,
+    "sha256": "c7b1c1192af36277126b1ee43a11cf69b30a2a15a8c320bdd869b195e3de19a6"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p076-image-2.png",
+    "pdf_page": 76,
+    "printed_page": 58,
+    "kind": "original_image",
+    "bbox": [
+      334.68,
+      489.05,
+      465.48,
+      613.13
+    ],
+    "xref": 321,
+    "width": 1090,
+    "height": 1034,
+    "sha256": "10a48f7f3a7eba33dae60f30eafaec41fb3a5bb7887b3833a569ffe84b2ae19b"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p077-image-1.png",
+    "pdf_page": 77,
+    "printed_page": 59,
+    "kind": "original_image",
+    "bbox": [
+      102.57,
+      453.92,
+      233.28,
+      578.12
+    ],
+    "xref": 325,
+    "width": 1089,
+    "height": 1035,
+    "sha256": "9b846626127adc2f580afa1b26e40e2470e32107625e87ff3ec4229a8d8e067a"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p077-image-2.png",
+    "pdf_page": 77,
+    "printed_page": 59,
+    "kind": "original_image",
+    "bbox": [
+      291.36,
+      453.83,
+      421.92,
+      578.12
+    ],
+    "xref": 326,
+    "width": 1088,
+    "height": 1036,
+    "sha256": "d73a93278dd4f2a25fbce5a4ae80b8e06e19d8b55cdee20f9fef3956a8b68c49"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p078-image-1.png",
+    "pdf_page": 78,
+    "printed_page": 60,
+    "kind": "original_image",
+    "bbox": [
+      134.61,
+      516.23,
+      389.85,
+      637.34
+    ],
+    "xref": 330,
+    "width": 2127,
+    "height": 1009,
+    "sha256": "3e6cafd370e6196c63c7385663abe5eaf5bd0fe4a74f33e4afeb70eea4cae5b8"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p079-image-1.png",
+    "pdf_page": 79,
+    "printed_page": 61,
+    "kind": "original_image",
+    "bbox": [
+      130.53,
+      372.68,
+      393.93,
+      496.64
+    ],
+    "xref": 334,
+    "width": 2195,
+    "height": 1033,
+    "sha256": "05ee3bf6aab1bb4a36eba98f08f132c27b91fbcd035b04b386dae3ed680d37f5"
+  },
+  {
+    "path": "第08章-调度多级反馈队列/assets/p080-image-1.png",
+    "pdf_page": 80,
+    "printed_page": 62,
+    "kind": "original_image",
+    "bbox": [
+      330.54,
+      247.25,
+      460.86,
+      366.71
+    ],
+    "xref": 338,
+    "width": 1124,
+    "height": 1033,
+    "sha256": "2b686ce097fa54182de8548e5e472bfe35c35d5f7ea58e38fe076f3d974999b3"
+  },
+  {
+    "path": "第09章-调度比例份额/assets/p085-image-1.png",
+    "pdf_page": 85,
+    "printed_page": 67,
+    "kind": "original_image",
+    "bbox": [
+      169.95,
+      349.55,
+      354.51,
+      379.91
+    ],
+    "xref": 361,
+    "width": 1538,
+    "height": 253,
+    "sha256": "88e95db77272409aaf00ddb169aa454542c0e4e1a00119dd0e46dd698ddb9119"
+  },
+  {
+    "path": "第09章-调度比例份额/assets/p086-image-1.png",
+    "pdf_page": 86,
+    "printed_page": 68,
+    "kind": "original_image",
+    "bbox": [
+      299.01,
+      293.6,
+      462.9,
+      451.28
+    ],
+    "xref": 365,
+    "width": 1366,
+    "height": 1314,
+    "sha256": "0540504c07fc931ad1e95d06ee5f06c31041e8a5c7248f7b59f6a5957f2a8e4a"
+  },
+  {
+    "path": "第09章-调度比例份额/assets/p087-table-1.png",
+    "pdf_page": 87,
+    "printed_page": 69,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      514.71,
+      468.6,
+      676.09
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 405,
+    "sha256": "c6dec3543fb5e3dd27cbb294b4a94c3e015c122371b5ad033cb7a70c1ef03bac"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p092-image-1.png",
+    "pdf_page": 92,
+    "printed_page": 74,
+    "kind": "original_image",
+    "bbox": [
+      142.83,
+      360.23,
+      186.63,
+      476.03
+    ],
+    "xref": 392,
+    "width": 365,
+    "height": 965,
+    "sha256": "130e0e4cfe55ce0316c5beba07d6c47eaa88c4b088e15c938bd0459bea1682c9"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p092-image-2.png",
+    "pdf_page": 92,
+    "printed_page": 74,
+    "kind": "original_image",
+    "bbox": [
+      265.83,
+      360.23,
+      381.63,
+      476.03
+    ],
+    "xref": 393,
+    "width": 965,
+    "height": 965,
+    "sha256": "d1a18716ed43d655246cffd5ec459a4b5acf518ae68be22b283540926b8a2f33"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p094-image-1.png",
+    "pdf_page": 94,
+    "printed_page": 76,
+    "kind": "original_image",
+    "bbox": [
+      161.43,
+      480.02,
+      363.03,
+      496.82
+    ],
+    "xref": 400,
+    "width": 1680,
+    "height": 140,
+    "sha256": "75eacaf990dfcb0d06b731cba05289e33820ef06a5980e832c9e6596828882b8"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p094-image-2.png",
+    "pdf_page": 94,
+    "printed_page": 76,
+    "kind": "original_image",
+    "bbox": [
+      170.4,
+      537.98,
+      354.09,
+      621.14
+    ],
+    "xref": 401,
+    "width": 1531,
+    "height": 693,
+    "sha256": "3e89d67e0b657c5f372a8e79497fe6c0c19e7cfae1cb4b92748298cbd7a96749"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p095-image-1.png",
+    "pdf_page": 95,
+    "printed_page": 77,
+    "kind": "original_image",
+    "bbox": [
+      170.4,
+      105.59,
+      354.09,
+      188.75
+    ],
+    "xref": 405,
+    "width": 1531,
+    "height": 693,
+    "sha256": "481be3f855daee9ab71538b22bfb2334f796906f300369c9f1a43ec1017444d6"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p095-image-2.png",
+    "pdf_page": 95,
+    "printed_page": 77,
+    "kind": "original_image",
+    "bbox": [
+      180.3,
+      495.17,
+      344.19,
+      511.97
+    ],
+    "xref": 406,
+    "width": 1366,
+    "height": 140,
+    "sha256": "4db2f4445b226799b51f35372e00ae816c21f25923b6518d9bb985fa6bc7dd61"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p095-image-3.png",
+    "pdf_page": 95,
+    "printed_page": 77,
+    "kind": "original_image",
+    "bbox": [
+      127.05,
+      553.16,
+      397.41,
+      593.27
+    ],
+    "xref": 407,
+    "width": 2253,
+    "height": 334,
+    "sha256": "ae28e4a1f7d48c09d926afd8405da12879939c3b29dc157737c00b386ae2a1dd"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-1.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      180.21,
+      90.02,
+      344.25,
+      106.82
+    ],
+    "xref": 416,
+    "width": 1367,
+    "height": 140,
+    "sha256": "b36910d54f4f492d06e563096d58c2c2a36c040e9ec90c09cee4765a4c5c9e06"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-2.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      125.1,
+      132.41,
+      399.39,
+      172.52
+    ],
+    "xref": 417,
+    "width": 2286,
+    "height": 334,
+    "sha256": "c617c97cc021e772496220ad60451ff5a859687618857e4cf0444dca15d2fc03"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-3.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      189.33,
+      213.71,
+      356.13,
+      230.6
+    ],
+    "xref": 411,
+    "width": 1390,
+    "height": 141,
+    "sha256": "6cf6724ba95439f449d4ea6e4e58cdb25174090f946ae754bfc2360bac97b21d"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-4.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      126.15,
+      256.22,
+      398.31,
+      289.46
+    ],
+    "xref": 412,
+    "width": 2268,
+    "height": 277,
+    "sha256": "99768dfa465780e2bee2b6378deb57240bcd36fb8978a5b447c73047739d7722"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-5.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      178.83,
+      431.96,
+      345.63,
+      448.76
+    ],
+    "xref": 413,
+    "width": 1390,
+    "height": 140,
+    "sha256": "70888db2a6d5232fc8ce4b69374bf0494c37910ff14c538e6e1598189e76943d"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-6.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      180.03,
+      505.58,
+      344.43,
+      522.47
+    ],
+    "xref": 414,
+    "width": 1370,
+    "height": 141,
+    "sha256": "6e000817fa1d0f32579c5231664dcd2dff75f7a563e1a0687a0d0a38f449318f"
+  },
+  {
+    "path": "第10章-多处理器调度高级/assets/p096-image-7.png",
+    "pdf_page": 96,
+    "printed_page": 78,
+    "kind": "original_image",
+    "bbox": [
+      127.5,
+      596.84,
+      396.99,
+      636.95
+    ],
+    "xref": 415,
+    "width": 2246,
+    "height": 334,
+    "sha256": "23dd8ccea78ea5259c05fe1a1f2d38ed8966fbf1b40cd81a36957383039d2f96"
+  },
+  {
+    "path": "第13章-抽象地址空间/assets/p103-image-1.png",
+    "pdf_page": 103,
+    "printed_page": 85,
+    "kind": "original_image",
+    "bbox": [
+      364.59,
+      312.83,
+      447.63,
+      445.52
+    ],
+    "xref": 450,
+    "width": 692,
+    "height": 1106,
+    "sha256": "4a37c9e1e5f457b76ef9918dbe44db2db9eb9802acb6de838a660f1ee5a49f68"
+  },
+  {
+    "path": "第13章-抽象地址空间/assets/p104-image-1.png",
+    "pdf_page": 104,
+    "printed_page": 86,
+    "kind": "original_image",
+    "bbox": [
+      365.73,
+      73.49,
+      450.24,
+      220.49
+    ],
+    "xref": 454,
+    "width": 704,
+    "height": 1225,
+    "sha256": "8902be568582aa378bb65089f10af932f3c6b6e6a63fe25ffb5e23146f7ce2c2"
+  },
+  {
+    "path": "第13章-抽象地址空间/assets/p104-image-2.png",
+    "pdf_page": 104,
+    "printed_page": 86,
+    "kind": "original_image",
+    "bbox": [
+      283.5,
+      435.38,
+      468.45,
+      580.7
+    ],
+    "xref": 455,
+    "width": 1607,
+    "height": 1267,
+    "sha256": "31b806b507117cf1b08f55e3d5852f159f2b1af62eb78d5262fb17cad0ac7163"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p120-image-1.png",
+    "pdf_page": 120,
+    "printed_page": 102,
+    "kind": "original_image",
+    "bbox": [
+      88.2,
+      308.42,
+      189.18,
+      659.48
+    ],
+    "xref": 512,
+    "width": 850,
+    "height": 2952,
+    "sha256": "555d9814c6b976b211eadca1ec9eb9a3ec5290ba5fa2ed848a9be36c03be8759"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p120-image-2.png",
+    "pdf_page": 120,
+    "printed_page": 102,
+    "kind": "original_image",
+    "bbox": [
+      263.1,
+      454.52,
+      436.26,
+      659.48
+    ],
+    "xref": 513,
+    "width": 1443,
+    "height": 1708,
+    "sha256": "0836f380ae3f2eed9e842d2b23048ea68afce89e234aae60532ca781c3262465"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p122-table-2.png",
+    "pdf_page": 122,
+    "printed_page": 104,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.1,
+      476.52,
+      469.43,
+      557.56
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 203,
+    "sha256": "74fe69919732033a8f75b0e516b848f0db5f1285a669c7b590d4d14e9967e5cc"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p123-table-1.png",
+    "pdf_page": 123,
+    "printed_page": 105,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      224.28,
+      468.6,
+      337.54
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 284,
+    "sha256": "f54a0845bb74cf72912e2c75fd9dbd1142fac2befe86ee2239c32008878610fa"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p124-table-1.png",
+    "pdf_page": 124,
+    "printed_page": 106,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      405.24,
+      468.6,
+      501.37
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 241,
+    "sha256": "648c639283489d49a9fb8dcd958a505fc2f482c87ddb6839d4d240a9fc39883f"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p125-table-1.png",
+    "pdf_page": 125,
+    "printed_page": 107,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      184.83,
+      468.6,
+      674.3
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 1224,
+    "sha256": "d86a1f29afd30786b0cc63880aa65aa5220fac4c8b0e83028a4e1351111247cb"
+  },
+  {
+    "path": "第15章-机制地址转换/assets/p126-table-1.png",
+    "pdf_page": 126,
+    "printed_page": 108,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      89.22,
+      468.6,
+      404.77
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 789,
+    "sha256": "d2e84254a26ccd067f7a186ef786c150c0c2b03a66d6b9b7842cd1d1b9943250"
+  },
+  {
+    "path": "第16章-分段/assets/p130-image-1.png",
+    "pdf_page": 130,
+    "printed_page": 112,
+    "kind": "original_image",
+    "bbox": [
+      127.77,
+      69.44,
+      223.41,
+      401.84
+    ],
+    "xref": 545,
+    "width": 797,
+    "height": 2770,
+    "sha256": "498f4eaf12af677ded0895bdcd165a973e8e899f000e5fe12bab32ec1f2800f4"
+  },
+  {
+    "path": "第16章-分段/assets/p130-image-2.png",
+    "pdf_page": 130,
+    "printed_page": 112,
+    "kind": "original_image",
+    "bbox": [
+      297.33,
+      226.73,
+      396.69,
+      401.84
+    ],
+    "xref": 546,
+    "width": 828,
+    "height": 1459,
+    "sha256": "4cc51de4b61eb6e9818a03a7ab49ce1b615845d977bbd7e88752ac24b8d2eb9b"
+  },
+  {
+    "path": "第16章-分段/assets/p130-table-1.png",
+    "pdf_page": 130,
+    "printed_page": 112,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.1,
+      446.31,
+      469.34,
+      511.24
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 164,
+    "sha256": "40a939f36b0dd48a91e479bff17a581dbd2f6fa98e9578f66c054af6455a9189"
+  },
+  {
+    "path": "第16章-分段/assets/p131-image-1.png",
+    "pdf_page": 131,
+    "printed_page": 113,
+    "kind": "original_image",
+    "bbox": [
+      198.75,
+      309.44,
+      325.71,
+      343.13
+    ],
+    "xref": 550,
+    "width": 1058,
+    "height": 281,
+    "sha256": "488d47553d0c02dfe65558a81eba17476389d765d761ffc29d0da826b4cfbae8"
+  },
+  {
+    "path": "第16章-分段/assets/p131-image-2.png",
+    "pdf_page": 131,
+    "printed_page": 113,
+    "kind": "original_image",
+    "bbox": [
+      198.75,
+      417.53,
+      325.71,
+      451.13
+    ],
+    "xref": 551,
+    "width": 1058,
+    "height": 280,
+    "sha256": "b786bbc93c25200349eabf7d20b3b1529a2f77e94afce87ac039da37a21af0f4"
+  },
+  {
+    "path": "第16章-分段/assets/p132-table-1.png",
+    "pdf_page": 132,
+    "printed_page": 114,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      359.52,
+      468.6,
+      424.33
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 163,
+    "sha256": "00723220de923e4104c9d6e84011aac27f1ede1334b58fb2f0d671724e681b4e"
+  },
+  {
+    "path": "第16章-分段/assets/p133-table-1.png",
+    "pdf_page": 133,
+    "printed_page": 115,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      176.22,
+      468.6,
+      241.12
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 163,
+    "sha256": "f280ef9c4073cce1f79fc70f1332089a83d33762d76ecc5e71e9b782e67a6dd7"
+  },
+  {
+    "path": "第16章-分段/assets/p134-image-1.png",
+    "pdf_page": 134,
+    "printed_page": 116,
+    "kind": "original_image",
+    "bbox": [
+      136.95,
+      188.63,
+      387.51,
+      361.85
+    ],
+    "xref": 562,
+    "width": 2086,
+    "height": 1441,
+    "sha256": "482841b72af2a2e710ecddcc7dd28133650e784a74b2aef228468fc3cefb8483"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p138-image-1.png",
+    "pdf_page": 138,
+    "printed_page": 120,
+    "kind": "original_image",
+    "bbox": [
+      194.73,
+      339.62,
+      329.73,
+      358.73
+    ],
+    "xref": 583,
+    "width": 1125,
+    "height": 159,
+    "sha256": "f6d1e9b84b6c223471dcc30244fe20d174f1530067da19fac43824eb5d7ada50"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p139-image-1.png",
+    "pdf_page": 139,
+    "printed_page": 121,
+    "kind": "original_image",
+    "bbox": [
+      194.73,
+      508.55,
+      329.73,
+      527.66
+    ],
+    "xref": 587,
+    "width": 1125,
+    "height": 159,
+    "sha256": "905d4ee6183484fd84306fc061cb9b14948f81c7e70ee18762b1a714e251978a"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p139-image-2.png",
+    "pdf_page": 139,
+    "printed_page": 121,
+    "kind": "original_image",
+    "bbox": [
+      185.55,
+      572.84,
+      338.91,
+      604.4
+    ],
+    "xref": 588,
+    "width": 1278,
+    "height": 263,
+    "sha256": "fcd8f92d3f633063f6b14efd6b1b7c7e4223b109e44f625fa6bbe0acb6300a21"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p140-image-1.png",
+    "pdf_page": 140,
+    "printed_page": 122,
+    "kind": "original_image",
+    "bbox": [
+      185.73,
+      184.61,
+      338.73,
+      216.17
+    ],
+    "xref": 592,
+    "width": 1275,
+    "height": 263,
+    "sha256": "572d6dce58561f5a03c2a6a6056e26d346fbd292bcc2722873d0c0d7bb765f88"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p140-image-2.png",
+    "pdf_page": 140,
+    "printed_page": 122,
+    "kind": "original_image",
+    "bbox": [
+      161.43,
+      337.37,
+      363.03,
+      368.93
+    ],
+    "xref": 593,
+    "width": 1680,
+    "height": 263,
+    "sha256": "7548fdf3d1caf99a92d06cfe33333eb40bbfc5e83b3d9bb62d98631aa0e21e71"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p140-image-3.png",
+    "pdf_page": 140,
+    "printed_page": 122,
+    "kind": "original_image",
+    "bbox": [
+      209.85,
+      474.5,
+      314.61,
+      506.06
+    ],
+    "xref": 594,
+    "width": 873,
+    "height": 263,
+    "sha256": "30e730b85a9b76b141a4fdaceccc4c177c88e68accef223759ab128f8dc8d35c"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p141-image-1.png",
+    "pdf_page": 141,
+    "printed_page": 123,
+    "kind": "original_image",
+    "bbox": [
+      57.6,
+      294.41,
+      246.69,
+      380.72
+    ],
+    "xref": 598,
+    "width": 1576,
+    "height": 719,
+    "sha256": "05653542cb5742a6dce7fe1b966618fdbbfdf7ad13f139ac3f95dbc95e360a00"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p141-image-2.png",
+    "pdf_page": 141,
+    "printed_page": 123,
+    "kind": "original_image",
+    "bbox": [
+      273.09,
+      290.63,
+      466.89,
+      380.72
+    ],
+    "xref": 599,
+    "width": 1615,
+    "height": 751,
+    "sha256": "401dab5e54b5427b3fdfb5c4e3eac33ff0fbebc7c36608dca2d3d46e1775b1ba"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p142-image-1.png",
+    "pdf_page": 142,
+    "printed_page": 124,
+    "kind": "original_image",
+    "bbox": [
+      56.16,
+      420.68,
+      267.45,
+      510.32
+    ],
+    "xref": 605,
+    "width": 1761,
+    "height": 747,
+    "sha256": "a5ef27c82f54d50476cf6d26380c31d22b32a6f474cc4123a9a5f7c6ad0a87b6"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p142-image-2.png",
+    "pdf_page": 142,
+    "printed_page": 124,
+    "kind": "original_image",
+    "bbox": [
+      283.29,
+      337.43,
+      468.33,
+      510.32
+    ],
+    "xref": 604,
+    "width": 1542,
+    "height": 1441,
+    "sha256": "90cbe277df93a3ddb0216e0873797e171070d8ec30d660ad8316b5ca9ff2cbd2"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p143-image-1.png",
+    "pdf_page": 143,
+    "printed_page": 125,
+    "kind": "original_image",
+    "bbox": [
+      56.7,
+      142.04,
+      224.85,
+      460.31
+    ],
+    "xref": 609,
+    "width": 1510,
+    "height": 2855,
+    "sha256": "781fa779043d7cd51b487751bb0979f60df6f608f92aceeda3b41b43aeed9ee4"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p143-image-2.png",
+    "pdf_page": 143,
+    "printed_page": 125,
+    "kind": "original_image",
+    "bbox": [
+      240.69,
+      141.8,
+      467.79,
+      460.31
+    ],
+    "xref": 610,
+    "width": 2035,
+    "height": 2851,
+    "sha256": "608b4f9346a89de138525fbad46929b5f7b05766b54ce060a03788f982500b12"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p144-image-1.png",
+    "pdf_page": 144,
+    "printed_page": 126,
+    "kind": "original_image",
+    "bbox": [
+      140.31,
+      69.44,
+      384.15,
+      410.48
+    ],
+    "xref": 614,
+    "width": 2032,
+    "height": 2842,
+    "sha256": "4082f1707727406ad64cc117cef51ed5397b90155f983f4d993e464ea45c5951"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p146-image-1.png",
+    "pdf_page": 146,
+    "printed_page": 128,
+    "kind": "original_image",
+    "bbox": [
+      161.73,
+      74.42,
+      362.73,
+      100.73
+    ],
+    "xref": 621,
+    "width": 1675,
+    "height": 219,
+    "sha256": "ceca8817fdd70e33f7e9a9cc4552cd2f80a5230c1a6f43f7b6f249e4d431c00a"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p146-image-2.png",
+    "pdf_page": 146,
+    "printed_page": 128,
+    "kind": "original_image",
+    "bbox": [
+      161.73,
+      141.92,
+      362.73,
+      168.23
+    ],
+    "xref": 622,
+    "width": 1675,
+    "height": 219,
+    "sha256": "86e6fc7ca2af6ef0482631c180268e69eb72e17caa004b929b27629c0259054f"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p146-image-3.png",
+    "pdf_page": 146,
+    "printed_page": 128,
+    "kind": "original_image",
+    "bbox": [
+      161.73,
+      209.42,
+      362.73,
+      235.73
+    ],
+    "xref": 623,
+    "width": 1675,
+    "height": 219,
+    "sha256": "56fbb5567ba2dc66e7564f7005c8f1c3c9464e2066e201c93bb099c0cd602be7"
+  },
+  {
+    "path": "第17章-空闲空间管理/assets/p147-image-1.png",
+    "pdf_page": 147,
+    "printed_page": 129,
+    "kind": "original_image",
+    "bbox": [
+      194.85,
+      402.92,
+      329.61,
+      489.68
+    ],
+    "xref": 627,
+    "width": 1123,
+    "height": 723,
+    "sha256": "c794c449471eeb7f58445d8ded860f04b6f634648f2f59f20380e7ae98106640"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p161-image-1.png",
+    "pdf_page": 161,
+    "printed_page": 143,
+    "kind": "original_image",
+    "bbox": [
+      334.68,
+      422.6,
+      467.37,
+      628.49
+    ],
+    "xref": 687,
+    "width": 1106,
+    "height": 1716,
+    "sha256": "17342f085aa8784ae9f40e912d6a672a7907a70187cf20f78896b5a2e443af69"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p165-table-2.png",
+    "pdf_page": 165,
+    "printed_page": 147,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.14,
+      574.29,
+      469.3,
+      655.28
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 204,
+    "sha256": "1d77ca393dfae30d663f86414ce6c2dd47b000753f7b5132d135444be78e7b0b"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p166-table-2.png",
+    "pdf_page": 166,
+    "printed_page": 148,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.07,
+      409.92,
+      469.24,
+      490.93
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 204,
+    "sha256": "a765de84ab902f2f71a9223c84797884ef3ff41e118287100ca0980cd8e39c3b"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p166-table-3.png",
+    "pdf_page": 166,
+    "printed_page": 148,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.07,
+      596.04,
+      469.24,
+      677.02
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 203,
+    "sha256": "8815ea1721f8e82fcc3a43e370eb0be8d7dfa8852246383c1138dd6cf0c8ac39"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p167-image-1.png",
+    "pdf_page": 167,
+    "printed_page": 149,
+    "kind": "original_image",
+    "bbox": [
+      120.09,
+      508.34,
+      404.4,
+      534.98
+    ],
+    "xref": 706,
+    "width": 2369,
+    "height": 222,
+    "sha256": "99e526670a87bd834adc4afc1b6dbf11beac2df5db87b32e0c95df15f33e4af2"
+  },
+  {
+    "path": "第19章-分页快速地址转换TLB/assets/p171-image-1.png",
+    "pdf_page": 171,
+    "printed_page": 153,
+    "kind": "original_image",
+    "bbox": [
+      327.51,
+      108.05,
+      457.95,
+      247.22
+    ],
+    "xref": 719,
+    "width": 1087,
+    "height": 1160,
+    "sha256": "5e96b26d9959401ebc28b32ec48daf3a472e17bb42117e65b21641c6b6be730b"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p173-image-1.png",
+    "pdf_page": 173,
+    "printed_page": 155,
+    "kind": "original_image",
+    "bbox": [
+      293.7,
+      265.79,
+      462.99,
+      432.83
+    ],
+    "xref": 734,
+    "width": 1411,
+    "height": 1392,
+    "sha256": "efa671d06d7b1c92308bb183e2d11d2d403b9b73e300b6ad3b0f8b963789737a"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p173-table-1.png",
+    "pdf_page": 173,
+    "printed_page": 155,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      498.95,
+      468.66,
+      676.29
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 444,
+    "sha256": "205d7667d7bec47c848d2397a41a184395126cf2610e4d9528f479789f3047fe"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p174-image-1.png",
+    "pdf_page": 174,
+    "printed_page": 156,
+    "kind": "original_image",
+    "bbox": [
+      91.71,
+      386.33,
+      432.75,
+      406.13
+    ],
+    "xref": 738,
+    "width": 2842,
+    "height": 165,
+    "sha256": "9a3459ce71aad66cae03aca4bd02c57d863fe9b3a2dc064b2fbfe24748092861"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p174-table-1.png",
+    "pdf_page": 174,
+    "printed_page": 156,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      87.35,
+      468.66,
+      200.43
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 284,
+    "sha256": "0827e81ca23d2693de6fc78c567289dbc47f371d56dfb26f54b8467951bf358f"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p176-image-1.png",
+    "pdf_page": 176,
+    "printed_page": 158,
+    "kind": "original_image",
+    "bbox": [
+      77.61,
+      69.44,
+      446.85,
+      252.95
+    ],
+    "xref": 745,
+    "width": 3077,
+    "height": 1529,
+    "sha256": "89a55e0e3bc88338b69c3a8ffc94c9394da66867d15e57e29b2c9c72d630ae97"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p177-image-1.png",
+    "pdf_page": 177,
+    "printed_page": 159,
+    "kind": "original_image",
+    "bbox": [
+      167.55,
+      457.55,
+      356.91,
+      501.59
+    ],
+    "xref": 749,
+    "width": 1578,
+    "height": 367,
+    "sha256": "32b50ce0bd945bcdad30785bff008f24c449f496bef40190557d1020ce078951"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p177-image-2.png",
+    "pdf_page": 177,
+    "printed_page": 159,
+    "kind": "original_image",
+    "bbox": [
+      167.55,
+      607.19,
+      356.91,
+      651.08
+    ],
+    "xref": 750,
+    "width": 1578,
+    "height": 366,
+    "sha256": "886850812e67434866cbe4503f6d4408fc4122da3a55bc2b51c9ed19b45e186f"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p177-image-3.png",
+    "pdf_page": 177,
+    "printed_page": 159,
+    "kind": "original_image",
+    "bbox": [
+      358.47,
+      237.29,
+      453.51,
+      357.26
+    ],
+    "xref": 751,
+    "width": 792,
+    "height": 1000,
+    "sha256": "8d873f066bd778adf72fdabfa3f78e72ee83cfc5cf18254b9a17680c929d42e0"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p178-table-1.png",
+    "pdf_page": 178,
+    "printed_page": 160,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      239.04,
+      468.66,
+      529.3
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 727,
+    "sha256": "5eba58bad12b913c7c53924eeba9e1715daf1dc77384c0bea2faac6497ac5bd7"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p179-image-1.png",
+    "pdf_page": 179,
+    "printed_page": 161,
+    "kind": "original_image",
+    "bbox": [
+      91.89,
+      430.43,
+      432.6,
+      492.74
+    ],
+    "xref": 758,
+    "width": 2839,
+    "height": 519,
+    "sha256": "38555634f57859e4a1c3d00e3ca986c5c5959d0cf835ba32debcdd000be74dbe"
+  },
+  {
+    "path": "第20章-分页较小的表/assets/p179-image-2.png",
+    "pdf_page": 179,
+    "printed_page": 161,
+    "kind": "original_image",
+    "bbox": [
+      91.89,
+      568.13,
+      432.6,
+      628.73
+    ],
+    "xref": 759,
+    "width": 2839,
+    "height": 505,
+    "sha256": "04eca5326c5fc2df984c6a7f4563b98490f34ddcb6428bc2e11b63c89fb898a9"
+  },
+  {
+    "path": "第21章-超越物理内存机制/assets/p184-image-1.png",
+    "pdf_page": 184,
+    "printed_page": 166,
+    "kind": "original_image",
+    "bbox": [
+      130.35,
+      313.43,
+      394.11,
+      401.12
+    ],
+    "xref": 783,
+    "width": 2198,
+    "height": 731,
+    "sha256": "b60022a5f5f40efbd95c4b81c7a05312df0b8861f36060e98346f7797e2e4162"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p190-formula-1.png",
+    "pdf_page": 190,
+    "printed_page": 172,
+    "kind": "formula_facsimile",
+    "bbox": [
+      185.43,
+      544.38,
+      336.71,
+      562.74
+    ],
+    "xref": null,
+    "width": 379,
+    "height": 47,
+    "sha256": "35683a1e2147349f42a93b30e652535d14ca96dbd7105ace26d56d55e300f40f"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p192-table-1.png",
+    "pdf_page": 192,
+    "printed_page": 174,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      233.64,
+      469.36,
+      427.34
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 485,
+    "sha256": "121fe07248edffc0831a75b70ba7cd4bdfd77c216a5249ca5afe53cda68cc270"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p193-table-1.png",
+    "pdf_page": 193,
+    "printed_page": 175,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.1,
+      327.24,
+      469.34,
+      520.92
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 485,
+    "sha256": "d131b6edbc29902f6cd17eadac02e9c479e650a45667038d2de9d4d431cef6e8"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p194-image-1.png",
+    "pdf_page": 194,
+    "printed_page": 176,
+    "kind": "original_image",
+    "bbox": [
+      277.56,
+      546.74,
+      466.2,
+      652.91
+    ],
+    "xref": 821,
+    "width": 1572,
+    "height": 885,
+    "sha256": "365c8aed645e216e51c27aacde5b5c3bb770bbb4fb55392d54468acff211b537"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p194-table-2.png",
+    "pdf_page": 194,
+    "printed_page": 176,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.1,
+      341.94,
+      469.34,
+      535.64
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 486,
+    "sha256": "9c73bf7293ff22709836bc0930d91bf583fbab00059859db27d006b2478d25ae"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p196-table-1.png",
+    "pdf_page": 196,
+    "printed_page": 178,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      124.44,
+      468.66,
+      318.12
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 485,
+    "sha256": "cd63b47bdc5f5435f4646349530b2f9071f4a5e57cc8b7e3a597c9cc8f13251b"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p197-image-1.png",
+    "pdf_page": 197,
+    "printed_page": 179,
+    "kind": "original_image",
+    "bbox": [
+      158.61,
+      69.44,
+      365.85,
+      272.48
+    ],
+    "xref": 832,
+    "width": 1727,
+    "height": 1692,
+    "sha256": "b858538619c8f6f30f617384971e5634f309700331c176203fd08c31d1ed07c2"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p197-image-2.png",
+    "pdf_page": 197,
+    "printed_page": 179,
+    "kind": "original_image",
+    "bbox": [
+      158.61,
+      369.56,
+      365.85,
+      572.87
+    ],
+    "xref": 833,
+    "width": 1727,
+    "height": 1694,
+    "sha256": "d4f9044ac0c0421ccf567c54001a22428e1e548ae68184bbd0ce8748fcdf0b37"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p198-image-1.png",
+    "pdf_page": 198,
+    "printed_page": 180,
+    "kind": "original_image",
+    "bbox": [
+      158.85,
+      157.43,
+      365.61,
+      361.94
+    ],
+    "xref": 837,
+    "width": 1723,
+    "height": 1704,
+    "sha256": "3968b8b5f2382b4629c48df6912b9d4af9cee6cead51f4886c6745c347ab232c"
+  },
+  {
+    "path": "第22章-超越物理内存策略/assets/p200-image-1.png",
+    "pdf_page": 200,
+    "printed_page": 182,
+    "kind": "original_image",
+    "bbox": [
+      161.85,
+      69.41,
+      362.61,
+      267.98
+    ],
+    "xref": 844,
+    "width": 1723,
+    "height": 1706,
+    "sha256": "1fc3c7772338ad440f6b590a1fc0c928d1d1625559235db0f5b88c472cb08923"
+  },
+  {
+    "path": "第23章-VAXVMS虚拟内存系统/assets/p206-image-1.png",
+    "pdf_page": 206,
+    "printed_page": 188,
+    "kind": "original_image",
+    "bbox": [
+      191.76,
+      69.44,
+      332.7,
+      377.09
+    ],
+    "xref": 871,
+    "width": 1174,
+    "height": 2564,
+    "sha256": "fb55c33f236a9d260b918b4e42d6274438c53973fb10e7d848915eaf07518703"
+  },
+  {
+    "path": "书前与导语/第2部分-并发/assets/p213-original-page.png",
+    "pdf_page": 213,
+    "printed_page": 195,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "af696ae976d2c7a8c7f8068614225835de1d710c650d66e097a02e2dbfbaf34b"
+  },
+  {
+    "path": "第26章-并发介绍/assets/p216-image-1.png",
+    "pdf_page": 216,
+    "printed_page": 198,
+    "kind": "original_image",
+    "bbox": [
+      135.3,
+      469.43,
+      389.19,
+      618.83
+    ],
+    "xref": 908,
+    "width": 2116,
+    "height": 1245,
+    "sha256": "aae891acd42872c9c703314dfc048599ad2fbbb6d6b4a4782e28e1c45984606d"
+  },
+  {
+    "path": "第26章-并发介绍/assets/p218-table-1.png",
+    "pdf_page": 218,
+    "printed_page": 200,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      86.22,
+      468.66,
+      308.17
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 556,
+    "sha256": "b502a4421a15e13e411b4d390499b9524e5460756b66ee8d65618def299b4c34"
+  },
+  {
+    "path": "第26章-并发介绍/assets/p218-table-2.png",
+    "pdf_page": 218,
+    "printed_page": 200,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      386.04,
+      468.66,
+      639.16
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 633,
+    "sha256": "8f73e7f294a1c40fc9c4449253ce9344c7764833242f31c992d0c635ec66c84c"
+  },
+  {
+    "path": "第26章-并发介绍/assets/p219-table-1.png",
+    "pdf_page": 219,
+    "printed_page": 201,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      113.82,
+      468.66,
+      351.37
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 595,
+    "sha256": "414374403629a03697911421504143d39689dc817ac72eb539f039b8c84d881f"
+  },
+  {
+    "path": "第26章-并发介绍/assets/p223-table-1.png",
+    "pdf_page": 223,
+    "printed_page": 205,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      86.22,
+      468.66,
+      324.21
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 596,
+    "sha256": "28521a118952c8f0b760b23b6fa44f5465ac3b6fef20bc1b2eedaec2b7c95768"
+  },
+  {
+    "path": "第28章-锁/assets/p241-table-1.png",
+    "pdf_page": 241,
+    "printed_page": 223,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      369.9,
+      468.66,
+      485.74
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 291,
+    "sha256": "1e99b24020c4ef571768f85fbadb5379b9e47dab1226ab6af2ed243b2be5c0d4"
+  },
+  {
+    "path": "第29章-基于锁的并发数据结构/assets/p257-image-1.png",
+    "pdf_page": 257,
+    "printed_page": 239,
+    "kind": "original_image",
+    "bbox": [
+      294.99,
+      72.14,
+      463.83,
+      203.42
+    ],
+    "xref": 1041,
+    "width": 1407,
+    "height": 1094,
+    "sha256": "bbf63ccdd45b23a4412c5300238dcf600a39ed267f7b13a005a94c48afe04a53"
+  },
+  {
+    "path": "第29章-基于锁的并发数据结构/assets/p257-table-1.png",
+    "pdf_page": 257,
+    "printed_page": 239,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.75,
+      595.62,
+      468.9,
+      676.4
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 203,
+    "sha256": "48d897d6913e18c4884cf5394159b8ddff9f8543029a4e3eafc9be699c8aefb4"
+  },
+  {
+    "path": "第29章-基于锁的并发数据结构/assets/p258-image-1.png",
+    "pdf_page": 258,
+    "printed_page": 240,
+    "kind": "original_image",
+    "bbox": [
+      174.69,
+      262.52,
+      349.8,
+      391.52
+    ],
+    "xref": 1045,
+    "width": 1459,
+    "height": 1075,
+    "sha256": "0565c91c71574fb657355fedfd9e0dab0b8c6f91963801eaaf04aba2195a21e7"
+  },
+  {
+    "path": "第29章-基于锁的并发数据结构/assets/p258-table-1.png",
+    "pdf_page": 258,
+    "printed_page": 240,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.75,
+      87.33,
+      468.9,
+      168.2
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 203,
+    "sha256": "d023bfbdecbb5af76ebaa1baf7003d41c9ab59455fb9e9423a83d42c2681c008"
+  },
+  {
+    "path": "第29章-基于锁的并发数据结构/assets/p264-image-1.png",
+    "pdf_page": 264,
+    "printed_page": 246,
+    "kind": "original_image",
+    "bbox": [
+      290.16,
+      287.84,
+      459.27,
+      418.37
+    ],
+    "xref": 1064,
+    "width": 1409,
+    "height": 1088,
+    "sha256": "83903b2ff08117dc2fa56b5c52b556d78cb1f57afcd7fe0f4fdf5db6f4f17d69"
+  },
+  {
+    "path": "第30章-条件变量/assets/p273-table-1.png",
+    "pdf_page": 273,
+    "printed_page": 255,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      431.82,
+      468.66,
+      673.55
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 605,
+    "sha256": "01809776cd98db56792df101049a8a78e6dd93601e8f39821c86c7f5b66b551b"
+  },
+  {
+    "path": "第30章-条件变量/assets/p274-table-1.png",
+    "pdf_page": 274,
+    "printed_page": 256,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      87.36,
+      468.66,
+      152.11
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 163,
+    "sha256": "5844a0161cf8e05fbc3f3f342b9552ce5b69170db8dae8937cc2700d1ceb7d90"
+  },
+  {
+    "path": "第30章-条件变量/assets/p275-table-1.png",
+    "pdf_page": 275,
+    "printed_page": 257,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      366.54,
+      468.66,
+      672.68
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 766,
+    "sha256": "4d22f0b92c14ed7e96d3b805cc378f7eade4ac06339e36be5125a67d13e1bb0e"
+  },
+  {
+    "path": "第30章-条件变量/assets/p276-table-1.png",
+    "pdf_page": 276,
+    "printed_page": 258,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      87.36,
+      468.66,
+      184.3
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 243,
+    "sha256": "09860596f2ecf476c46ff9f32029b8478f33d844d2ec4255015b927a88e88479"
+  },
+  {
+    "path": "第31章-信号量/assets/p283-table-1.png",
+    "pdf_page": 283,
+    "printed_page": 265,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.92,
+      88.23,
+      468.75,
+      201.46
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 284,
+    "sha256": "07107dae8d1bda70cacccc01d5ce6e616bbdfc0b43cadb43befeffe21f0e4031"
+  },
+  {
+    "path": "第31章-信号量/assets/p283-table-2.png",
+    "pdf_page": 283,
+    "printed_page": 265,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.92,
+      354.42,
+      468.75,
+      676.79
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 806,
+    "sha256": "ed151737b142731ca57b31475a7775c3d4386b8f37bfd70fc1a2ee7c6e0341f8"
+  },
+  {
+    "path": "第31章-信号量/assets/p285-table-1.png",
+    "pdf_page": 285,
+    "printed_page": 267,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.58,
+      191.82,
+      469.07,
+      385.5
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 485,
+    "sha256": "329ffc5b9e8f7fc0bb1b24c7bfa6cbf36c8a5771276b7ac22e4f1e3b834a5b0e"
+  },
+  {
+    "path": "第31章-信号量/assets/p285-table-2.png",
+    "pdf_page": 285,
+    "printed_page": 267,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.58,
+      481.02,
+      469.07,
+      674.7
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 485,
+    "sha256": "5f8fc89d2157a68133558589324d85bca9102277ff3ef7f012ea99f0f6d2ac8f"
+  },
+  {
+    "path": "第31章-信号量/assets/p291-image-1.png",
+    "pdf_page": 291,
+    "printed_page": 273,
+    "kind": "original_image",
+    "bbox": [
+      290.49,
+      404.03,
+      466.2,
+      578.51
+    ],
+    "xref": 1153,
+    "width": 1464,
+    "height": 1454,
+    "sha256": "1c0293f5fddf598726ba38d7f322f876e9ef7b0e97e1ed87a1af85668fa7e1c8"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p297-table-2.png",
+    "pdf_page": 297,
+    "printed_page": 279,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      527.22,
+      469.36,
+      624.22
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 243,
+    "sha256": "358220e029f01210bdf56aba54bad872d667a6cc0971081e3ebe2eb078e3db67"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p301-image-1.png",
+    "pdf_page": 301,
+    "printed_page": 283,
+    "kind": "original_image",
+    "bbox": [
+      197.01,
+      123.23,
+      327.45,
+      253.52
+    ],
+    "xref": 1192,
+    "width": 1087,
+    "height": 1086,
+    "sha256": "2e75dc2edd08f7791964f41e5b57129a3f701eb3dcbf99f3ff727897d1102dff"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p305-image-1.png",
+    "pdf_page": 305,
+    "printed_page": 287,
+    "kind": "original_image",
+    "bbox": [
+      213.81,
+      576.23,
+      310.65,
+      605.87
+    ],
+    "xref": 1206,
+    "width": 807,
+    "height": 247,
+    "sha256": "b80b0f3e75b85f25c1b4de8d643fc3ce458eaf6ba42087c43e87fb52c7876a49"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p305-table-1.png",
+    "pdf_page": 305,
+    "printed_page": 287,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      485.94,
+      468.66,
+      534.73
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 123,
+    "sha256": "ced75cbe706422e21b083d9d0933daf3d446309714f4198c8fd130bcd8cf7432"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p306-image-1.png",
+    "pdf_page": 306,
+    "printed_page": 288,
+    "kind": "original_image",
+    "bbox": [
+      199.41,
+      210.71,
+      325.05,
+      240.2
+    ],
+    "xref": 1210,
+    "width": 1047,
+    "height": 246,
+    "sha256": "e586a94d94dcece6c919ec56b12036e80d0a8889bbf54028f9f24c92441a3ad3"
+  },
+  {
+    "path": "第32章-常见并发问题/assets/p306-table-1.png",
+    "pdf_page": 306,
+    "printed_page": 288,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      124.44,
+      469.36,
+      173.23
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 123,
+    "sha256": "5acf5ec513939c206ae7dc5029af47bbd430e2507779f1d7ca9bc6656d6a773f"
+  },
+  {
+    "path": "书前与导语/第3部分-持久性/assets/p319-original-page.png",
+    "pdf_page": 319,
+    "printed_page": 301,
+    "kind": "front_facsimile",
+    "bbox": [
+      0,
+      0,
+      524,
+      700
+    ],
+    "xref": null,
+    "width": 1310,
+    "height": 1750,
+    "sha256": "1d2a9c768d9741b3d8a3d116edb707b3edabfecd4fa3a2bbbf0bb739faf6b7f4"
+  },
+  {
+    "path": "第36章-IO设备/assets/p321-image-1.png",
+    "pdf_page": 321,
+    "printed_page": 303,
+    "kind": "original_image",
+    "bbox": [
+      140.13,
+      430.34,
+      384.33,
+      632.78
+    ],
+    "xref": 1268,
+    "width": 2035,
+    "height": 1687,
+    "sha256": "098b4cb17567318480a868bb0645b4b6c72f4c41738e428ffa10b1b7d1eca877"
+  },
+  {
+    "path": "第36章-IO设备/assets/p322-image-1.png",
+    "pdf_page": 322,
+    "printed_page": 304,
+    "kind": "original_image",
+    "bbox": [
+      275.82,
+      212.54,
+      461.58,
+      271.58
+    ],
+    "xref": 1272,
+    "width": 1548,
+    "height": 492,
+    "sha256": "1b53927fe58753ca19d2c748efa81953b1a01bdfc88820ff3723ad61932193d4"
+  },
+  {
+    "path": "第36章-IO设备/assets/p323-image-1.png",
+    "pdf_page": 323,
+    "printed_page": 305,
+    "kind": "original_image",
+    "bbox": [
+      136.29,
+      427.34,
+      388.2,
+      459.74
+    ],
+    "xref": 1276,
+    "width": 2099,
+    "height": 270,
+    "sha256": "85da64d78b6394a3dd88b580b8ae6d99086bca9cc481113cdefba2b3b7d0ebff"
+  },
+  {
+    "path": "第36章-IO设备/assets/p323-image-2.png",
+    "pdf_page": 323,
+    "printed_page": 305,
+    "kind": "original_image",
+    "bbox": [
+      136.29,
+      551.72,
+      388.2,
+      584.12
+    ],
+    "xref": 1277,
+    "width": 2099,
+    "height": 270,
+    "sha256": "d18707317c0ae921b582789fcef2dee014b519a5f52a77dd711b4a1ecf485a7a"
+  },
+  {
+    "path": "第36章-IO设备/assets/p324-image-1.png",
+    "pdf_page": 324,
+    "printed_page": 306,
+    "kind": "original_image",
+    "bbox": [
+      136.5,
+      474.14,
+      387.99,
+      506.54
+    ],
+    "xref": 1281,
+    "width": 2096,
+    "height": 270,
+    "sha256": "90e71bf8d73156e9fd791fdd257fb6d65465bdc9f6207c21c7b8d577c2352ddf"
+  },
+  {
+    "path": "第36章-IO设备/assets/p325-image-1.png",
+    "pdf_page": 325,
+    "printed_page": 307,
+    "kind": "original_image",
+    "bbox": [
+      135.9,
+      123.23,
+      388.59,
+      172.34
+    ],
+    "xref": 1285,
+    "width": 2106,
+    "height": 409,
+    "sha256": "6ec4eb8aa80399705d4683715c649fe6a4ad4b19f49ac820d42b304a7b60dde3"
+  },
+  {
+    "path": "第36章-IO设备/assets/p326-image-1.png",
+    "pdf_page": 326,
+    "printed_page": 308,
+    "kind": "original_image",
+    "bbox": [
+      154.2,
+      312.53,
+      370.29,
+      408.17
+    ],
+    "xref": 1289,
+    "width": 1801,
+    "height": 797,
+    "sha256": "d1e4f02ceff925f5c0a85307fa8250f5a1e6c518c2f6ac78c111edba5aa7d3e5"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p333-image-1.png",
+    "pdf_page": 333,
+    "printed_page": 315,
+    "kind": "original_image",
+    "bbox": [
+      157.41,
+      453.44,
+      215.61,
+      511.64
+    ],
+    "xref": 1312,
+    "width": 485,
+    "height": 485,
+    "sha256": "871b5f76a70af8c726fc5df84dc19328a53fa8ecb36937f48ec4a40ad8e1452b"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p333-image-2.png",
+    "pdf_page": 333,
+    "printed_page": 315,
+    "kind": "original_image",
+    "bbox": [
+      284.25,
+      424.64,
+      367.05,
+      511.64
+    ],
+    "xref": 1313,
+    "width": 690,
+    "height": 725,
+    "sha256": "caccb1c0abaa9a8933cce323412d62bec7757742cffbb1466e49c1198d8f2f23"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p334-image-1.png",
+    "pdf_page": 334,
+    "printed_page": 316,
+    "kind": "original_image",
+    "bbox": [
+      132.15,
+      227.63,
+      392.31,
+      363.32
+    ],
+    "xref": 1317,
+    "width": 2168,
+    "height": 1131,
+    "sha256": "e38cdc2404b2629824f0b3c390c587c673152f6270ae4c331efbb5842c78fa45"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p335-image-1.png",
+    "pdf_page": 335,
+    "printed_page": 317,
+    "kind": "original_image",
+    "bbox": [
+      340.23,
+      104.93,
+      457.74,
+      250.1
+    ],
+    "xref": 1321,
+    "width": 979,
+    "height": 1210,
+    "sha256": "1a04abf0aca6811ba1b68ad55d8272a1dbb6fc2b4df4d785dcf77bd61c2ea2bb"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p336-math-reviewed-1.png",
+    "pdf_page": 336,
+    "printed_page": 318,
+    "kind": "formula_facsimile",
+    "bbox": [
+      158,
+      87,
+      366,
+      114
+    ],
+    "xref": null,
+    "width": 520,
+    "height": 68,
+    "sha256": "e738cc703762ff9707ce3b190918880a1de2c82e16a7b3fc766f5e289015b768"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p336-math-reviewed-2.png",
+    "pdf_page": 336,
+    "printed_page": 318,
+    "kind": "formula_facsimile",
+    "bbox": [
+      149,
+      166,
+      375,
+      193
+    ],
+    "xref": null,
+    "width": 566,
+    "height": 68,
+    "sha256": "fc53c5c4b9fb3c566e1494abfcfcc26170f22452c2b151b5f4f20ce843283d11"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p336-math-reviewed-3.png",
+    "pdf_page": 336,
+    "printed_page": 318,
+    "kind": "formula_facsimile",
+    "bbox": [
+      201,
+      347,
+      468,
+      362
+    ],
+    "xref": null,
+    "width": 668,
+    "height": 38,
+    "sha256": "0b6fc622b1dadc6e02b4a652d8bef765108d3a51a618aa0f38b7c9cf4aff6320"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p336-math-reviewed-4.png",
+    "pdf_page": 336,
+    "printed_page": 318,
+    "kind": "formula_facsimile",
+    "bbox": [
+      226,
+      400,
+      468,
+      434
+    ],
+    "xref": null,
+    "width": 605,
+    "height": 85,
+    "sha256": "02edd51cfc60e6ba7edf789a1820df23c2d651d51ec03635dff4531b3faa3afb"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p337-table-1.png",
+    "pdf_page": 337,
+    "printed_page": 319,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      86.22,
+      469.36,
+      215.56
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 324,
+    "sha256": "51a6d3e9d60a2301b9a641e7ab6626d006f143d39fbe4aea7e7466d542877264"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p337-formula-1.png",
+    "pdf_page": 337,
+    "printed_page": 319,
+    "kind": "formula_facsimile",
+    "bbox": [
+      165.36,
+      267.36,
+      467.49,
+      285.97
+    ],
+    "xref": null,
+    "width": 756,
+    "height": 47,
+    "sha256": "9136818d143cfaa327b4a2269b4bd361b1185690e288078d184ae914c07e3253"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-table-1.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      98.22,
+      469.36,
+      147.07
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 123,
+    "sha256": "d9824ed9bd0b66703eaa4184f0aa23781ce904dec418d359bd2cce9379877b05"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-1.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      227,
+      245,
+      471,
+      268
+    ],
+    "xref": null,
+    "width": 611,
+    "height": 58,
+    "sha256": "d205046d282b67e62cb2b20f01633443dfda662c647d614681bb55c8a0e2445c"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-2.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      228,
+      292,
+      471,
+      315
+    ],
+    "xref": null,
+    "width": 608,
+    "height": 58,
+    "sha256": "c987f0081d49c55d6e7117d2ef15ac8c4064186ebc478fcdb6f882c1ad2e89d3"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-3.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      212,
+      339,
+      471,
+      361
+    ],
+    "xref": null,
+    "width": 648,
+    "height": 56,
+    "sha256": "dedab66042ac152899a925bbf6baee0f8b447d9b1eb949362bb1923ac1414efe"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-4.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      60,
+      367,
+      468,
+      411
+    ],
+    "xref": null,
+    "width": 1020,
+    "height": 111,
+    "sha256": "45a8c7eb5d47b8364ca10e306de2ae0f3382aece73bd6e29557d3c5fb0c8ea2d"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-5.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      220,
+      414,
+      471,
+      443
+    ],
+    "xref": null,
+    "width": 628,
+    "height": 73,
+    "sha256": "04f8b6078f2ce8f3e62eb454d00cde1a770d6ced4ac1bab573a91d167a7ddca6"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p338-math-reviewed-6.png",
+    "pdf_page": 338,
+    "printed_page": 320,
+    "kind": "formula_facsimile",
+    "bbox": [
+      209,
+      460,
+      322,
+      490
+    ],
+    "xref": null,
+    "width": 283,
+    "height": 75,
+    "sha256": "54e463d596314695f1cb16573395c711061f532d7436f34277efa48a3958de13"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p339-image-1.png",
+    "pdf_page": 339,
+    "printed_page": 321,
+    "kind": "original_image",
+    "bbox": [
+      339.84,
+      178.85,
+      457.35,
+      319.22
+    ],
+    "xref": 1334,
+    "width": 979,
+    "height": 1170,
+    "sha256": "6e7469c2cad9a8cab17027f4bd91333405cc58b2fd44286f0287024946bc0577"
+  },
+  {
+    "path": "第37章-磁盘驱动器/assets/p340-image-1.png",
+    "pdf_page": 340,
+    "printed_page": 322,
+    "kind": "original_image",
+    "bbox": [
+      344.49,
+      279.23,
+      462.0,
+      421.07
+    ],
+    "xref": 1338,
+    "width": 979,
+    "height": 1182,
+    "sha256": "be5676cec23489764dbe6c34ca3cc54a03d50357c400f4122b402beb11461dc3"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p346-table-1.png",
+    "pdf_page": 346,
+    "printed_page": 328,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      511.32,
+      468.66,
+      592.31
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 203,
+    "sha256": "619f19da12f65581662c30fbc1acfff3692fe3a2ea0a6e0b40b4dca299508844"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p347-table-1.png",
+    "pdf_page": 347,
+    "printed_page": 329,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      113.82,
+      469.36,
+      194.83
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 204,
+    "sha256": "1511bf1dd50c98ca2f075a914dbaf597d9462ca972bb9cbeabd501fbb0381ec8"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p347-math-reviewed-1.png",
+    "pdf_page": 347,
+    "printed_page": 329,
+    "kind": "formula_facsimile",
+    "bbox": [
+      224,
+      354,
+      308,
+      384
+    ],
+    "xref": null,
+    "width": 210,
+    "height": 75,
+    "sha256": "908a296568bff82aaaa4f4c5720eab15057759b9d2e5c67320b9d2ee5650ea60"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p349-table-1.png",
+    "pdf_page": 349,
+    "printed_page": 331,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      527.22,
+      468.66,
+      608.24
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 203,
+    "sha256": "74513e1ccb3494d2bffeb178a166bfed87a5de63717b1000a4e72216005264ca"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p349-math-reviewed-1.png",
+    "pdf_page": 349,
+    "printed_page": 331,
+    "kind": "formula_facsimile",
+    "bbox": [
+      174,
+      70,
+      348,
+      101
+    ],
+    "xref": null,
+    "width": 435,
+    "height": 78,
+    "sha256": "bbf11675807bdd3a0f4f601735e3e3f227472ab64f6e23af692f99cb0a3b99e3"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p349-math-reviewed-2.png",
+    "pdf_page": 349,
+    "printed_page": 331,
+    "kind": "formula_facsimile",
+    "bbox": [
+      168,
+      163,
+      355,
+      194
+    ],
+    "xref": null,
+    "width": 468,
+    "height": 78,
+    "sha256": "47f58c60e178ff99d9b0cd3a67f5a520d4db240a8bb87c2348688a863ec4717c"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p351-table-1.png",
+    "pdf_page": 351,
+    "printed_page": 333,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.6,
+      596.19,
+      468.96,
+      677.2
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 203,
+    "sha256": "67cb3e463177cde551af5f533ea14126bdca75fb6bc5f4397da48fb7a59d6a86"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p352-table-1.png",
+    "pdf_page": 352,
+    "printed_page": 334,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      139.02,
+      468.66,
+      181.39
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 107,
+    "sha256": "f3cadb7a1802279c87f15d89722fe8b7bbe9e53d4bb1f7b840d56e5c12490714"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p352-table-2.png",
+    "pdf_page": 352,
+    "printed_page": 334,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      457.19,
+      468.66,
+      499.41
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 107,
+    "sha256": "c3a69235b6266899950b433184f4e1e08ece70e81b21529ad112003f63071279"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p353-table-1.png",
+    "pdf_page": 353,
+    "printed_page": 335,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      109.83,
+      468.66,
+      181.39
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 180,
+    "sha256": "1c833ccc373b43da79bc439d35894dbbb3f57639f1165b7e439e9e00f5f3d5b6"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p353-math-reviewed-1.png",
+    "pdf_page": 353,
+    "printed_page": 335,
+    "kind": "formula_facsimile",
+    "bbox": [
+      162,
+      484,
+      379,
+      516
+    ],
+    "xref": null,
+    "width": 543,
+    "height": 80,
+    "sha256": "cc9356304a97e46b49d7761f713cfa4888f488353eb377a7a3d31967197afc65"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p353-math-reviewed-2.png",
+    "pdf_page": 353,
+    "printed_page": 335,
+    "kind": "formula_facsimile",
+    "bbox": [
+      195,
+      609,
+      468,
+      626
+    ],
+    "xref": null,
+    "width": 683,
+    "height": 43,
+    "sha256": "8df5652649a944ce32d0b6bf0c1fc6e0a173256c571993b0e86b65753572e40a"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p354-table-1.png",
+    "pdf_page": 354,
+    "printed_page": 336,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      171.24,
+      468.66,
+      242.8
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 179,
+    "sha256": "53edd05872d278c5b8e8b92b05d6c48658463ecd131d8f7cc634021f64034d2e"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p354-table-2.png",
+    "pdf_page": 354,
+    "printed_page": 336,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      591.48,
+      468.66,
+      677.02
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 215,
+    "sha256": "48250b3d723e7da1f8ea705f408f2d03323948e519cce6272ffe93f37164de98"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p355-table-1.png",
+    "pdf_page": 355,
+    "printed_page": 337,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      524.04,
+      468.6,
+      669.3
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 364,
+    "sha256": "7ede815a9888a4e13042c24c73dbcd10dad6f2c5ec069144830c30773d2254c2"
+  },
+  {
+    "path": "第38章-廉价冗余磁盘阵列RAID/assets/p356-table-1.png",
+    "pdf_page": 356,
+    "printed_page": 338,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.05,
+      87.24,
+      468.6,
+      152.14
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 163,
+    "sha256": "7f5d88eff3ed656abcfa7723368d2de6e7b89679a72c82a7310849d69e20f251"
+  },
+  {
+    "path": "第39章-插叙文件和目录/assets/p361-image-1.png",
+    "pdf_page": 361,
+    "printed_page": 343,
+    "kind": "original_image",
+    "bbox": [
+      331.11,
+      92.24,
+      464.22,
+      197.72
+    ],
+    "xref": 1420,
+    "width": 1109,
+    "height": 879,
+    "sha256": "f76caecf5895fef9fed1a6f2763f091489d1aea97c6e19632009986f2fcb3802"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p376-image-1.png",
+    "pdf_page": 376,
+    "printed_page": 358,
+    "kind": "original_image",
+    "bbox": [
+      130.95,
+      264.68,
+      393.51,
+      309.17
+    ],
+    "xref": 1474,
+    "width": 2188,
+    "height": 371,
+    "sha256": "7e3f4b698ef22e592b370891597ca1f678d647c704bf3059cf918eee5ab86bc1"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p376-image-2.png",
+    "pdf_page": 376,
+    "printed_page": 358,
+    "kind": "original_image",
+    "bbox": [
+      130.95,
+      384.56,
+      393.51,
+      440.72
+    ],
+    "xref": 1475,
+    "width": 2188,
+    "height": 468,
+    "sha256": "9a4166c7bab53e684f424a388eb0fa2472275ac1908d0008774a017b2799bce3"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p376-image-3.png",
+    "pdf_page": 376,
+    "printed_page": 358,
+    "kind": "original_image",
+    "bbox": [
+      130.95,
+      562.94,
+      393.51,
+      619.34
+    ],
+    "xref": 1476,
+    "width": 2188,
+    "height": 470,
+    "sha256": "2b74df8fb541ed0bd1df5f54e98779535dd80754d643fa7851fffc0e30528a38"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p377-image-1.png",
+    "pdf_page": 377,
+    "printed_page": 359,
+    "kind": "original_image",
+    "bbox": [
+      130.95,
+      231.92,
+      393.51,
+      288.32
+    ],
+    "xref": 1480,
+    "width": 2188,
+    "height": 470,
+    "sha256": "6718e1f74555ebdb1833bf7a6af373a7aa845bd9d0f7fbd4e1045ac9c82b7060"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p377-image-2.png",
+    "pdf_page": 377,
+    "printed_page": 359,
+    "kind": "original_image",
+    "bbox": [
+      130.95,
+      410.51,
+      393.51,
+      466.91
+    ],
+    "xref": 1481,
+    "width": 2188,
+    "height": 470,
+    "sha256": "717faac4e85df6116a03a22ad005a7f4acd82908b9365ab7d4e0c436aa063595"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p378-image-1.png",
+    "pdf_page": 378,
+    "printed_page": 360,
+    "kind": "original_image",
+    "bbox": [
+      117.15,
+      302.03,
+      407.31,
+      371.39
+    ],
+    "xref": 1485,
+    "width": 2418,
+    "height": 578,
+    "sha256": "b5b186c65fcfae656d279cdb8d36d2e834b3be0225a543ade7e5628b37de5973"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p379-table-1.png",
+    "pdf_page": 379,
+    "printed_page": 361,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      86.22,
+      469.36,
+      392.65
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 767,
+    "sha256": "45b6853678916fb0d97292be84d828283cdfe289fe69a1dd6c8c6a2ae1e0d3b1"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p380-table-1.png",
+    "pdf_page": 380,
+    "printed_page": 362,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      405.24,
+      469.36,
+      502.39
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 243,
+    "sha256": "2308d842d27ed4ed73b9aac3f97640ead039ee83afdffea3fc0b607d0e691389"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p384-table-1.png",
+    "pdf_page": 384,
+    "printed_page": 366,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      98.22,
+      468.66,
+      272.84
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 438,
+    "sha256": "8f179d1bcce3831c45cf26300d8959beef500dc59c2b1eea3c0fd89a5307f2a3"
+  },
+  {
+    "path": "第40章-文件系统实现/assets/p385-table-1.png",
+    "pdf_page": 385,
+    "printed_page": 367,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      101.22,
+      469.36,
+      385.04
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 710,
+    "sha256": "a051e50728930a3e09236452aa3f0082ea989cd8981f2f762e988ec571f534ad"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p390-image-1.png",
+    "pdf_page": 390,
+    "printed_page": 372,
+    "kind": "original_image",
+    "bbox": [
+      153.93,
+      215.81,
+      370.53,
+      238.01
+    ],
+    "xref": 1523,
+    "width": 1805,
+    "height": 185,
+    "sha256": "205bd00c8eedf43d03033641a06a8fa3ff79f01dbb56234c0fefc1a6186067a4"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p390-image-2.png",
+    "pdf_page": 390,
+    "printed_page": 372,
+    "kind": "original_image",
+    "bbox": [
+      175.53,
+      562.01,
+      348.93,
+      584.21
+    ],
+    "xref": 1524,
+    "width": 1445,
+    "height": 185,
+    "sha256": "d3adc273e05ba51ebd1a81c4dc126e751a9375fd58137096555c36abf7a50805"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p390-image-3.png",
+    "pdf_page": 390,
+    "printed_page": 372,
+    "kind": "original_image",
+    "bbox": [
+      175.53,
+      611.81,
+      348.93,
+      634.01
+    ],
+    "xref": 1525,
+    "width": 1445,
+    "height": 185,
+    "sha256": "313623d043130ed10105b98f562302978f1f0ce837c2b6dedc906a3fdf327b9b"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p391-image-1.png",
+    "pdf_page": 391,
+    "printed_page": 373,
+    "kind": "original_image",
+    "bbox": [
+      175.53,
+      75.41,
+      348.93,
+      97.61
+    ],
+    "xref": 1529,
+    "width": 1445,
+    "height": 185,
+    "sha256": "4917c95343da451f6195f75b3867c0ed0d538696aeeab2e5e81ac17e783d397b"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p391-image-2.png",
+    "pdf_page": 391,
+    "printed_page": 373,
+    "kind": "original_image",
+    "bbox": [
+      153.93,
+      587.3,
+      370.53,
+      609.5
+    ],
+    "xref": 1530,
+    "width": 1805,
+    "height": 185,
+    "sha256": "c745962e4eecec3809c2712849253ec845b1116909be4ea417f1344073c54c19"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p392-image-1.png",
+    "pdf_page": 392,
+    "printed_page": 374,
+    "kind": "original_image",
+    "bbox": [
+      153.93,
+      75.41,
+      370.53,
+      97.61
+    ],
+    "xref": 1534,
+    "width": 1805,
+    "height": 185,
+    "sha256": "f66dc1d7f77a935f941cdbb43cd530ac6b4492e99fcf70c618e62aa6ad506946"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p393-image-1.png",
+    "pdf_page": 393,
+    "printed_page": 375,
+    "kind": "original_image",
+    "bbox": [
+      273.06,
+      431.54,
+      464.97,
+      624.83
+    ],
+    "xref": 1538,
+    "width": 1599,
+    "height": 1611,
+    "sha256": "a95398d2bc951a6e45b3973487a0006810457f8fdd1ec231e22b28de5c3ab594"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p394-image-1.png",
+    "pdf_page": 394,
+    "printed_page": 376,
+    "kind": "original_image",
+    "bbox": [
+      147.03,
+      325.04,
+      377.46,
+      359.81
+    ],
+    "xref": 1543,
+    "width": 768,
+    "height": 115,
+    "sha256": "9589461bedb2267f110008330a10713c4e0666531e5854e830e8ddc998c994c7"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p394-image-2.png",
+    "pdf_page": 394,
+    "printed_page": 376,
+    "kind": "original_image",
+    "bbox": [
+      145.5,
+      387.41,
+      378.96,
+      419.87
+    ],
+    "xref": 1544,
+    "width": 775,
+    "height": 108,
+    "sha256": "1765b43c4ced307a43a4459817013f021c1d315eee431e61f8825634f1a2dade"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p394-math-reviewed-1.png",
+    "pdf_page": 394,
+    "printed_page": 376,
+    "kind": "formula_facsimile",
+    "bbox": [
+      162,
+      598,
+      468,
+      628
+    ],
+    "xref": null,
+    "width": 765,
+    "height": 75,
+    "sha256": "06bd3920bb8b0ca8e0ad33719b5bcfa7a9928cd38e9cd05fca34c152f5e4744a"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p395-image-1.png",
+    "pdf_page": 395,
+    "printed_page": 377,
+    "kind": "original_image",
+    "bbox": [
+      289.71,
+      71.84,
+      467.07,
+      245.72
+    ],
+    "xref": 1548,
+    "width": 1478,
+    "height": 1449,
+    "sha256": "7976c01491e207e14434d389ef89dc854545ff44e6ae78021f857177644b30a6"
+  },
+  {
+    "path": "第41章-局部性和快速文件系统/assets/p395-image-2.png",
+    "pdf_page": 395,
+    "printed_page": 377,
+    "kind": "original_image",
+    "bbox": [
+      334.29,
+      604.19,
+      464.58,
+      662.36
+    ],
+    "xref": 1549,
+    "width": 1086,
+    "height": 485,
+    "sha256": "142d79711b6480003bdd29aac68248aa358c10d07c1faacde8e97a6e897e8088"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p399-image-1.png",
+    "pdf_page": 399,
+    "printed_page": 381,
+    "kind": "original_image",
+    "bbox": [
+      117.3,
+      137.84,
+      407.19,
+      183.44
+    ],
+    "xref": 1569,
+    "width": 2416,
+    "height": 380,
+    "sha256": "bc2e1408398c6beb67f9b3bdaba25b28d85c920fcb030dcb182a1a5b69a99096"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p399-image-2.png",
+    "pdf_page": 399,
+    "printed_page": 381,
+    "kind": "original_image",
+    "bbox": [
+      117.3,
+      621.44,
+      407.19,
+      667.04
+    ],
+    "xref": 1570,
+    "width": 2416,
+    "height": 380,
+    "sha256": "f9a62b8548ab3cbf39a935715e97b6f61dbe6dfe7303cf277e916868ccf307f5"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p403-image-1.png",
+    "pdf_page": 403,
+    "printed_page": 385,
+    "kind": "original_image",
+    "bbox": [
+      125.31,
+      153.92,
+      399.15,
+      183.23
+    ],
+    "xref": 1583,
+    "width": 2282,
+    "height": 244,
+    "sha256": "c80e7bbaa6e77da580f1591d9748ebb9fecd7bb520a6025d65223af062579f1c"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p403-image-2.png",
+    "pdf_page": 403,
+    "printed_page": 385,
+    "kind": "original_image",
+    "bbox": [
+      125.31,
+      227.42,
+      399.15,
+      256.73
+    ],
+    "xref": 1584,
+    "width": 2282,
+    "height": 244,
+    "sha256": "be41c0c9de07b4bf9b9002abc7b2c05b05a165f66c8a5df6b15017775b72aca8"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p403-image-3.png",
+    "pdf_page": 403,
+    "printed_page": 385,
+    "kind": "original_image",
+    "bbox": [
+      127.59,
+      402.32,
+      396.9,
+      431.63
+    ],
+    "xref": 1585,
+    "width": 2244,
+    "height": 244,
+    "sha256": "6eabd32a84860cd6e563c860c035e87f22594f6497aed97ce92416f8634c9f72"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p404-image-1.png",
+    "pdf_page": 404,
+    "printed_page": 386,
+    "kind": "original_image",
+    "bbox": [
+      127.65,
+      214.82,
+      396.81,
+      244.13
+    ],
+    "xref": 1589,
+    "width": 2243,
+    "height": 244,
+    "sha256": "b0a8a2d6ea8c68dbf8b3bb55bfaf94d20ce06871aebeb92717318bf0b6f3b932"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p405-image-1.png",
+    "pdf_page": 405,
+    "printed_page": 387,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      253.73,
+      397.29,
+      283.04
+    ],
+    "xref": 1593,
+    "width": 2251,
+    "height": 244,
+    "sha256": "49e44d3111b88da4b1df0eb061e0d2999e9257e4a51f133745db35cc973cb3b8"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p405-image-2.png",
+    "pdf_page": 405,
+    "printed_page": 387,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      308.6,
+      397.29,
+      338.51
+    ],
+    "xref": 1594,
+    "width": 2251,
+    "height": 249,
+    "sha256": "2445a42de6ded4d0b3f18844c150edab7ca5b113c22e67275da898c4cffb6476"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p406-image-1.png",
+    "pdf_page": 406,
+    "printed_page": 388,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      450.83,
+      397.29,
+      480.14
+    ],
+    "xref": 1598,
+    "width": 2251,
+    "height": 244,
+    "sha256": "bc1bd18a141833484766a630ac9f9fc09dc88a68a04c895fc0174afee04dc8ad"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p407-image-1.png",
+    "pdf_page": 407,
+    "printed_page": 389,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      74.42,
+      397.29,
+      109.46
+    ],
+    "xref": 1602,
+    "width": 2251,
+    "height": 292,
+    "sha256": "fe5c7d5d02cc85a2bf9341eca59960219a69d645427428e24573d2680075ac37"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p407-image-2.png",
+    "pdf_page": 407,
+    "printed_page": 389,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      486.08,
+      397.29,
+      515.39
+    ],
+    "xref": 1603,
+    "width": 2251,
+    "height": 244,
+    "sha256": "fa591919ca9d379f8b93c35e31a0a77b387c78c5f04b92e362f4a118b08284fa"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p408-image-1.png",
+    "pdf_page": 408,
+    "printed_page": 390,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      545.54,
+      397.29,
+      574.85
+    ],
+    "xref": 1607,
+    "width": 2251,
+    "height": 244,
+    "sha256": "13cce7eb9eedada8c7aed3c5565b173fb72d83e50b1b6adcc61cfc44f4ac89b9"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p408-image-2.png",
+    "pdf_page": 408,
+    "printed_page": 390,
+    "kind": "original_image",
+    "bbox": [
+      127.2,
+      647.24,
+      397.29,
+      676.55
+    ],
+    "xref": 1608,
+    "width": 2251,
+    "height": 244,
+    "sha256": "1e8afbb040949f36e41a78d50a060329dca19fe4c8e06199afcc1f08e2ffbf3b"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p409-table-1.png",
+    "pdf_page": 409,
+    "printed_page": 391,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      283.56,
+      468.66,
+      474.5
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 479,
+    "sha256": "bea5e10c3d00b70e2e39592cb34689db86c6a615050b5e00e469adedd64fc272"
+  },
+  {
+    "path": "第42章-崩溃一致性FSCK和日志/assets/p409-table-2.png",
+    "pdf_page": 409,
+    "printed_page": 391,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      498.6,
+      468.66,
+      676.2
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 445,
+    "sha256": "3076ecff32b4c97bef7c3b5cc6678dd1883f04055e66fc88e6821da53e7ce267"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p414-image-1.png",
+    "pdf_page": 414,
+    "printed_page": 396,
+    "kind": "original_image",
+    "bbox": [
+      144.75,
+      184.64,
+      379.71,
+      226.64
+    ],
+    "xref": 1636,
+    "width": 1958,
+    "height": 350,
+    "sha256": "863732721205f894e56d1f47005dd4f0cbc5831b41b271c2f529b3b4f363ffd8"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p414-image-2.png",
+    "pdf_page": 414,
+    "printed_page": 396,
+    "kind": "original_image",
+    "bbox": [
+      144.75,
+      301.01,
+      379.71,
+      351.77
+    ],
+    "xref": 1637,
+    "width": 1958,
+    "height": 423,
+    "sha256": "3ec60617c925a9fa13ee0963733ade7dc18996e62c629eeaff36190e2940775a"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p415-image-1.png",
+    "pdf_page": 415,
+    "printed_page": 397,
+    "kind": "original_image",
+    "bbox": [
+      128.55,
+      215.81,
+      395.91,
+      274.37
+    ],
+    "xref": 1641,
+    "width": 2228,
+    "height": 488,
+    "sha256": "10a97780e7c97e7b999e3d971b44f5ad7325bb83fdc5a478da7c28459ec72de5"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p415-math-reviewed-2.png",
+    "pdf_page": 415,
+    "printed_page": 397,
+    "kind": "formula_facsimile",
+    "bbox": [
+      214,
+      497,
+      468,
+      530
+    ],
+    "xref": null,
+    "width": 635,
+    "height": 83,
+    "sha256": "0d675fd8ba6951d5a61f6230543db37f5e3dcfaff550b2eadc555e97f59f00ff"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p415-math-reviewed-3.png",
+    "pdf_page": 415,
+    "printed_page": 397,
+    "kind": "formula_facsimile",
+    "bbox": [
+      193,
+      556,
+      468,
+      602
+    ],
+    "xref": null,
+    "width": 688,
+    "height": 115,
+    "sha256": "26aa79de503198d797a808047f9cd4520981a1a58388f6e863e11931e84f7e37"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p416-math-reviewed-1.png",
+    "pdf_page": 416,
+    "printed_page": 398,
+    "kind": "formula_facsimile",
+    "bbox": [
+      185,
+      101,
+      468,
+      147
+    ],
+    "xref": null,
+    "width": 708,
+    "height": 116,
+    "sha256": "7e3d525a360937be04511ec9babefc2a0abe71a91d8dc82b6b6ff424b7095312"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p416-math-reviewed-2.png",
+    "pdf_page": 416,
+    "printed_page": 398,
+    "kind": "formula_facsimile",
+    "bbox": [
+      191,
+      152,
+      468,
+      190
+    ],
+    "xref": null,
+    "width": 693,
+    "height": 95,
+    "sha256": "8b2428465b0e7e1833186889ee84ccba6cff1f2a78b1858be10923064e388413"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p416-math-reviewed-3.png",
+    "pdf_page": 416,
+    "printed_page": 398,
+    "kind": "formula_facsimile",
+    "bbox": [
+      166,
+      199,
+      468,
+      237
+    ],
+    "xref": null,
+    "width": 755,
+    "height": 96,
+    "sha256": "3937fa4c3df21a8bac70ba514a98722d0eb45d1a23b7a674c518a4c8cd70237f"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p416-math-reviewed-4.png",
+    "pdf_page": 416,
+    "printed_page": 398,
+    "kind": "formula_facsimile",
+    "bbox": [
+      205,
+      242,
+      468,
+      272
+    ],
+    "xref": null,
+    "width": 658,
+    "height": 75,
+    "sha256": "4c4ad3b6bbb78e1fc06aeb9bb653c6431e39cd0f587618626656943fab1a982a"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p417-image-1.png",
+    "pdf_page": 417,
+    "printed_page": 399,
+    "kind": "original_image",
+    "bbox": [
+      131.73,
+      363.92,
+      392.73,
+      429.08
+    ],
+    "xref": 1648,
+    "width": 2175,
+    "height": 543,
+    "sha256": "d9e2e46119379cc64cc90d3a9c42c307920543f574632241eb71228761dcf080"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p418-image-1.png",
+    "pdf_page": 418,
+    "printed_page": 400,
+    "kind": "original_image",
+    "bbox": [
+      128.43,
+      107.63,
+      396.03,
+      169.07
+    ],
+    "xref": 1652,
+    "width": 2230,
+    "height": 512,
+    "sha256": "b2f3a334c21745d059d00919cfa2ea5c40ae318a712fdb26e0f91f84b72fff58"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p418-image-2.png",
+    "pdf_page": 418,
+    "printed_page": 400,
+    "kind": "original_image",
+    "bbox": [
+      131.73,
+      541.88,
+      392.73,
+      602.84
+    ],
+    "xref": 1653,
+    "width": 2175,
+    "height": 508,
+    "sha256": "3754bd07b97fdf6cdfac1829f239bc1236a1be65d7bbcecd1efb0fcf2881c5f6"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p419-image-1.png",
+    "pdf_page": 419,
+    "printed_page": 401,
+    "kind": "original_image",
+    "bbox": [
+      131.73,
+      404.03,
+      392.73,
+      460.19
+    ],
+    "xref": 1657,
+    "width": 2175,
+    "height": 468,
+    "sha256": "07e474e3dadc3ede05dbf345c3c54132afceba5c2967e3aed869028e2852fae1"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p419-image-2.png",
+    "pdf_page": 419,
+    "printed_page": 401,
+    "kind": "original_image",
+    "bbox": [
+      131.73,
+      552.17,
+      392.73,
+      617.33
+    ],
+    "xref": 1658,
+    "width": 2175,
+    "height": 543,
+    "sha256": "6cef14548919842c57e9fc0e8fcf42d9695522d87f152bcbd0710d3bee0762ac"
+  },
+  {
+    "path": "第43章-日志结构文件系统/assets/p421-image-1.png",
+    "pdf_page": 421,
+    "printed_page": 403,
+    "kind": "original_image",
+    "bbox": [
+      131.61,
+      84.41,
+      392.85,
+      149.57
+    ],
+    "xref": 1665,
+    "width": 2177,
+    "height": 543,
+    "sha256": "877a71aff1ca3ca941d8e03037ff7860dc4ecf3f1951de53b40ba63517f9eb41"
+  },
+  {
+    "path": "第44章-数据完整性和保护/assets/p426-table-1.png",
+    "pdf_page": 426,
+    "printed_page": 408,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      212.16,
+      468.66,
+      260.9
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 123,
+    "sha256": "71892bba9d1c2fe74a60d4d04fdee847dc83cf75c4d009bac04c594221bce588"
+  },
+  {
+    "path": "第44章-数据完整性和保护/assets/p429-image-1.png",
+    "pdf_page": 429,
+    "printed_page": 411,
+    "kind": "original_image",
+    "bbox": [
+      161.25,
+      350.39,
+      363.21,
+      379.55
+    ],
+    "xref": 1697,
+    "width": 1683,
+    "height": 243,
+    "sha256": "d9bd08dcab1614a903cb484b941cae08a384c1f6cc2e2cdac80d2940cadb9c1a"
+  },
+  {
+    "path": "第44章-数据完整性和保护/assets/p429-image-2.png",
+    "pdf_page": 429,
+    "printed_page": 411,
+    "kind": "original_image",
+    "bbox": [
+      168.39,
+      411.17,
+      356.1,
+      440.48
+    ],
+    "xref": 1698,
+    "width": 1564,
+    "height": 244,
+    "sha256": "eeefcc6cb68e338664add36c6d0161c8a64e4f4dd2f8263f84f5263ada55ce8c"
+  },
+  {
+    "path": "第44章-数据完整性和保护/assets/p429-image-3.png",
+    "pdf_page": 429,
+    "printed_page": 411,
+    "kind": "original_image",
+    "bbox": [
+      171.81,
+      534.47,
+      352.65,
+      563.78
+    ],
+    "xref": 1699,
+    "width": 1507,
+    "height": 244,
+    "sha256": "440cdc7363f49b2d9532dc168d90f00ed1d527a8bb9ceb56edda0e8b1bcb731f"
+  },
+  {
+    "path": "第44章-数据完整性和保护/assets/p430-image-1.png",
+    "pdf_page": 430,
+    "printed_page": 412,
+    "kind": "original_image",
+    "bbox": [
+      168.21,
+      606.17,
+      356.25,
+      667.88
+    ],
+    "xref": 1703,
+    "width": 1567,
+    "height": 514,
+    "sha256": "b451077bae1badd120172ecb431d634f69fbd685891400e4252bba07e6cc75f2"
+  },
+  {
+    "path": "第47章-分布式系统/assets/p440-image-1.png",
+    "pdf_page": 440,
+    "printed_page": 422,
+    "kind": "original_image",
+    "bbox": [
+      282.33,
+      610.13,
+      466.74,
+      658.22
+    ],
+    "xref": 1750,
+    "width": 1557,
+    "height": 407,
+    "sha256": "d96244a0e3b33a88a91d0a2abc9e184f448dc8e37f2a2be80da1c87f83f06665"
+  },
+  {
+    "path": "第47章-分布式系统/assets/p441-image-1.png",
+    "pdf_page": 441,
+    "printed_page": 423,
+    "kind": "original_image",
+    "bbox": [
+      56.79,
+      292.52,
+      254.7,
+      433.61
+    ],
+    "xref": 1754,
+    "width": 1649,
+    "height": 1176,
+    "sha256": "fc8a56f8f53a7a7f3e028ab24ce5e25f7630b2887490ce142e16cb406f119229"
+  },
+  {
+    "path": "第47章-分布式系统/assets/p441-image-2.png",
+    "pdf_page": 441,
+    "printed_page": 423,
+    "kind": "original_image",
+    "bbox": [
+      270.54,
+      278.21,
+      467.7,
+      433.61
+    ],
+    "xref": 1755,
+    "width": 1643,
+    "height": 1295,
+    "sha256": "1e71dfb551bb530f0794c117e8a64734d5c774edb728ce4f600e0b0abfc526ac"
+  },
+  {
+    "path": "第48章-Sun的网络文件系统NFS/assets/p448-image-1.png",
+    "pdf_page": 448,
+    "printed_page": 430,
+    "kind": "original_image",
+    "bbox": [
+      321.72,
+      202.34,
+      463.68,
+      324.02
+    ],
+    "xref": 1784,
+    "width": 1183,
+    "height": 1014,
+    "sha256": "c65100b1f29fa5ea99cada87b9f6c273d10d54c3054e1c549694c8a6818f8b61"
+  },
+  {
+    "path": "第48章-Sun的网络文件系统NFS/assets/p449-image-1.png",
+    "pdf_page": 449,
+    "printed_page": 431,
+    "kind": "original_image",
+    "bbox": [
+      140.19,
+      95.03,
+      384.3,
+      137.87
+    ],
+    "xref": 1788,
+    "width": 2034,
+    "height": 357,
+    "sha256": "c7119be821fad545e968bfc1b127918ad999b6d58bcac8f9109bf9da485253e6"
+  },
+  {
+    "path": "第48章-Sun的网络文件系统NFS/assets/p453-table-1.png",
+    "pdf_page": 453,
+    "printed_page": 435,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.07,
+      105.84,
+      469.24,
+      428.33
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 807,
+    "sha256": "485a4863b46e97a8d6c9cfc997d21bef45c8b533a96315b218cf01d63d523151"
+  },
+  {
+    "path": "第48章-Sun的网络文件系统NFS/assets/p454-image-1.png",
+    "pdf_page": 454,
+    "printed_page": 436,
+    "kind": "original_image",
+    "bbox": [
+      132.63,
+      391.4,
+      391.83,
+      602.36
+    ],
+    "xref": 1804,
+    "width": 2160,
+    "height": 1758,
+    "sha256": "3d2e5aa2112d027d43ade748198e5ad3f34af86637dc8e4ca75787319312ac89"
+  },
+  {
+    "path": "第48章-Sun的网络文件系统NFS/assets/p456-image-1.png",
+    "pdf_page": 456,
+    "printed_page": 438,
+    "kind": "original_image",
+    "bbox": [
+      153.0,
+      216.83,
+      371.49,
+      292.52
+    ],
+    "xref": 1811,
+    "width": 1821,
+    "height": 631,
+    "sha256": "db69467cd0dd4d8e8886aa781b477539150d08e260eda1f0b77a4202ccfd8360"
+  },
+  {
+    "path": "第49章-Andrew文件系统AFS/assets/p461-table-1.png",
+    "pdf_page": 461,
+    "printed_page": 443,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      186.84,
+      469.36,
+      273.01
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 216,
+    "sha256": "f32472150a2dc621b5f10a3c97eb946452bfdf27c76f4aff83a2b0c05f209e98"
+  },
+  {
+    "path": "第49章-Andrew文件系统AFS/assets/p463-table-1.png",
+    "pdf_page": 463,
+    "printed_page": 445,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.09,
+      86.22,
+      469.36,
+      342.59
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 642,
+    "sha256": "1b8dc8e3d21079b1856baf279d1239ce38461c42cd2b3fc80ef5edb9304a7069"
+  },
+  {
+    "path": "第49章-Andrew文件系统AFS/assets/p464-table-1.png",
+    "pdf_page": 464,
+    "printed_page": 446,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      600.21,
+      468.66,
+      673.58
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 184,
+    "sha256": "85b0babc3f0814e7608024a60525450d531eb5e56c7c9b7c0f6a50c1f79945ef"
+  },
+  {
+    "path": "第49章-Andrew文件系统AFS/assets/p465-table-1.png",
+    "pdf_page": 465,
+    "printed_page": 447,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      87.24,
+      468.66,
+      503.3
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 1041,
+    "sha256": "50ee42622a8384fa77181034e9b01e5c80bd92bf0a15a7cdbd6613cecb06a4d6"
+  },
+  {
+    "path": "第49章-Andrew文件系统AFS/assets/p466-table-1.png",
+    "pdf_page": 466,
+    "printed_page": 448,
+    "kind": "table_facsimile",
+    "bbox": [
+      54.99,
+      441.51,
+      468.66,
+      635.11
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 485,
+    "sha256": "a2ea8890c65b3fb09817ca38685002277157e36a3720f9254c7f1d916a91c78b"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p475-table-1.png",
+    "pdf_page": 475,
+    "printed_page": 457,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.29,
+      339.03,
+      468.96,
+      520.96
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 456,
+    "sha256": "effffd2f07075a1ff6436f667654f98cfb313a0ed256314a03da6cd2da06f3b0"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p476-table-1.png",
+    "pdf_page": 476,
+    "printed_page": 458,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.29,
+      202.44,
+      468.6,
+      303.73
+    ],
+    "xref": null,
+    "width": 1034,
+    "height": 254,
+    "sha256": "a78b16ed08043f94c94a9d835bb2304cf937f2ee794ff3983c7c66253efa5a98"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p476-table-2.png",
+    "pdf_page": 476,
+    "printed_page": 458,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.29,
+      339.78,
+      468.6,
+      511.27
+    ],
+    "xref": null,
+    "width": 1034,
+    "height": 430,
+    "sha256": "4d12058bf33f109e5d0543b2f9e2867b9067dc9ab65d3101c95361aabd4cd5d3"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p477-image-1.png",
+    "pdf_page": 477,
+    "printed_page": 459,
+    "kind": "original_image",
+    "bbox": [
+      116.85,
+      335.69,
+      407.61,
+      525.05
+    ],
+    "xref": 1889,
+    "width": 2423,
+    "height": 1578,
+    "sha256": "f8856eb514607d8de51093695da61335e0638fc765bc1259015b6abd4c8b9983"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p478-table-1.png",
+    "pdf_page": 478,
+    "printed_page": 460,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.29,
+      248.43,
+      468.96,
+      397.39
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 373,
+    "sha256": "464047657008f9aa9495fb70d2b432a8b3bcd89811a815d9d9f691766dd19d73"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p478-table-2.png",
+    "pdf_page": 478,
+    "printed_page": 460,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.29,
+      630.21,
+      468.96,
+      674.36
+    ],
+    "xref": null,
+    "width": 1035,
+    "height": 111,
+    "sha256": "807ca0c7e01cfbe8964b6f8f68c2febd85a9666624106676e219e203d9ec6f6d"
+  },
+  {
+    "path": "附录B-虚拟机监视器/assets/p479-table-1.png",
+    "pdf_page": 479,
+    "printed_page": 461,
+    "kind": "table_facsimile",
+    "bbox": [
+      55.15,
+      87.24,
+      469.42,
+      376.66
+    ],
+    "xref": null,
+    "width": 1037,
+    "height": 724,
+    "sha256": "2726094d587bc80efa23650119f646e1d9cef0f757c2ee7587ed9b7ad0df9fa3"
+  }
+]

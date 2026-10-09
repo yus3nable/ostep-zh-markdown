@@ -1,0 +1,4554 @@
+{
+  "chapters": [
+    {
+      "id": "front-1",
+      "kind": "front_matter",
+      "title": "封面",
+      "directory": "书前与导语/封面",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "封面",
+          "pdf_pages": [
+            1,
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-2",
+      "kind": "front_matter",
+      "title": "扉页",
+      "directory": "书前与导语/扉页",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "扉页",
+          "pdf_pages": [
+            2,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-3",
+      "kind": "front_matter",
+      "title": "版权声明",
+      "directory": "书前与导语/版权声明",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "版权声明",
+          "pdf_pages": [
+            3,
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-4",
+      "kind": "front_matter",
+      "title": "内容提要",
+      "directory": "书前与导语/内容提要",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "内容提要",
+          "pdf_pages": [
+            4,
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-5",
+      "kind": "front_matter",
+      "title": "前言",
+      "directory": "书前与导语/前言",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/section-0.md",
+          "title": "致本书读者",
+          "pdf_pages": [
+            5,
+            6
+          ]
+        },
+        {
+          "path": "sections/section-1.md",
+          "title": "致使用本书作为教材的教师",
+          "pdf_pages": [
+            6,
+            7
+          ]
+        },
+        {
+          "path": "sections/section-2.md",
+          "title": "致使用本书上课的学生",
+          "pdf_pages": [
+            7,
+            7
+          ]
+        },
+        {
+          "path": "sections/section-3.md",
+          "title": "致谢",
+          "pdf_pages": [
+            7,
+            9
+          ]
+        },
+        {
+          "path": "sections/section-4.md",
+          "title": "最后的话",
+          "pdf_pages": [
+            9,
+            9
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            10,
+            10
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-11",
+      "kind": "front_matter",
+      "title": "资源与支持",
+      "directory": "书前与导语/资源与支持",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "资源与支持",
+          "pdf_pages": [
+            11,
+            12
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-13",
+      "kind": "front_matter",
+      "title": "目录",
+      "directory": "书前与导语/目录",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "目录",
+          "pdf_pages": [
+            13,
+            18
+          ]
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "kind": "chapter",
+      "title": "第 1 章 关于本书的对话",
+      "directory": "第01章-关于本书的对话",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 1 章 关于本书的对话",
+          "pdf_pages": [
+            19,
+            20
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "kind": "chapter",
+      "title": "第 2 章 操作系统介绍",
+      "directory": "第02章-操作系统介绍",
+      "part": "导读",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 2 章 操作系统介绍",
+          "pdf_pages": [
+            21,
+            22
+          ]
+        },
+        {
+          "path": "sections/2.1.md",
+          "title": "2.1 虚拟化CPU",
+          "pdf_pages": [
+            22,
+            24
+          ]
+        },
+        {
+          "path": "sections/2.2.md",
+          "title": "2.2 虚拟化内存",
+          "pdf_pages": [
+            24,
+            25
+          ]
+        },
+        {
+          "path": "sections/2.3.md",
+          "title": "2.3 并发",
+          "pdf_pages": [
+            25,
+            27
+          ]
+        },
+        {
+          "path": "sections/2.4.md",
+          "title": "2.4 持久性",
+          "pdf_pages": [
+            27,
+            29
+          ]
+        },
+        {
+          "path": "sections/2.5.md",
+          "title": "2.5 设计目标",
+          "pdf_pages": [
+            29,
+            30
+          ]
+        },
+        {
+          "path": "sections/2.6.md",
+          "title": "2.6 简单历史",
+          "pdf_pages": [
+            30,
+            33
+          ]
+        },
+        {
+          "path": "sections/2.7.md",
+          "title": "2.7 小结",
+          "pdf_pages": [
+            33,
+            33
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            33,
+            34
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-35",
+      "kind": "front_matter",
+      "title": "第一部分 虚拟化",
+      "directory": "书前与导语/第一部分-虚拟化",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第一部分 虚拟化",
+          "pdf_pages": [
+            35,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "kind": "chapter",
+      "title": "第 3 章 关于虚拟化的对话",
+      "directory": "第03章-关于虚拟化的对话",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 3 章 关于虚拟化的对话",
+          "pdf_pages": [
+            36,
+            36
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "kind": "chapter",
+      "title": "第 4 章 抽象：进程",
+      "directory": "第04章-抽象进程",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 4 章 抽象：进程",
+          "pdf_pages": [
+            37,
+            37
+          ]
+        },
+        {
+          "path": "sections/4.1.md",
+          "title": "4.1 抽象：进程",
+          "pdf_pages": [
+            38,
+            38
+          ]
+        },
+        {
+          "path": "sections/4.2.md",
+          "title": "4.2 进程API",
+          "pdf_pages": [
+            38,
+            39
+          ]
+        },
+        {
+          "path": "sections/4.3.md",
+          "title": "4.3 进程创建：更多细节",
+          "pdf_pages": [
+            39,
+            40
+          ]
+        },
+        {
+          "path": "sections/4.4.md",
+          "title": "4.4 进程状态",
+          "pdf_pages": [
+            40,
+            41
+          ]
+        },
+        {
+          "path": "sections/4.5.md",
+          "title": "4.5 数据结构",
+          "pdf_pages": [
+            42,
+            43
+          ]
+        },
+        {
+          "path": "sections/4.6.md",
+          "title": "4.6 小结",
+          "pdf_pages": [
+            43,
+            43
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            43,
+            44
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            44,
+            44
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            44,
+            45
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "kind": "chapter",
+      "title": "第 5 章 插叙：进程API",
+      "directory": "第05章-插叙进程API",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 5 章 插叙：进程API",
+          "pdf_pages": [
+            46,
+            46
+          ]
+        },
+        {
+          "path": "sections/5.1.md",
+          "title": "5.1 fork()系统调用",
+          "pdf_pages": [
+            46,
+            47
+          ]
+        },
+        {
+          "path": "sections/5.2.md",
+          "title": "5.2 wait()系统调用",
+          "pdf_pages": [
+            47,
+            48
+          ]
+        },
+        {
+          "path": "sections/5.3.md",
+          "title": "5.3 最后是exec()系统调用",
+          "pdf_pages": [
+            48,
+            49
+          ]
+        },
+        {
+          "path": "sections/5.4.md",
+          "title": "5.4 为什么这样设计API",
+          "pdf_pages": [
+            50,
+            52
+          ]
+        },
+        {
+          "path": "sections/5.5.md",
+          "title": "5.5 其他API",
+          "pdf_pages": [
+            52,
+            52
+          ]
+        },
+        {
+          "path": "sections/5.6.md",
+          "title": "5.6 小结",
+          "pdf_pages": [
+            52,
+            52
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            52,
+            53
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业（编码）",
+          "pdf_pages": [
+            53,
+            53
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            53,
+            54
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "kind": "chapter",
+      "title": "第 6 章 机制：受限直接执行",
+      "directory": "第06章-机制受限直接执行",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 6 章 机制：受限直接执行",
+          "pdf_pages": [
+            55,
+            55
+          ]
+        },
+        {
+          "path": "sections/6.1.md",
+          "title": "6.1 基本技巧：受限直接执行",
+          "pdf_pages": [
+            55,
+            56
+          ]
+        },
+        {
+          "path": "sections/6.2.md",
+          "title": "6.2 问题1：受限制的操作",
+          "pdf_pages": [
+            56,
+            58
+          ]
+        },
+        {
+          "path": "sections/6.3.md",
+          "title": "6.3 问题2：在进程之间切换",
+          "pdf_pages": [
+            58,
+            62
+          ]
+        },
+        {
+          "path": "sections/6.4.md",
+          "title": "6.4 担心并发吗",
+          "pdf_pages": [
+            62,
+            63
+          ]
+        },
+        {
+          "path": "sections/6.5.md",
+          "title": "6.5 小结",
+          "pdf_pages": [
+            63,
+            63
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            63,
+            65
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业（测量）",
+          "pdf_pages": [
+            65,
+            65
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "kind": "chapter",
+      "title": "第 7 章 进程调度：介绍",
+      "directory": "第07章-进程调度介绍",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 7 章 进程调度：介绍",
+          "pdf_pages": [
+            66,
+            66
+          ]
+        },
+        {
+          "path": "sections/7.1.md",
+          "title": "7.1 工作负载假设",
+          "pdf_pages": [
+            66,
+            66
+          ]
+        },
+        {
+          "path": "sections/7.2.md",
+          "title": "7.2 调度指标",
+          "pdf_pages": [
+            67,
+            67
+          ]
+        },
+        {
+          "path": "sections/7.3.md",
+          "title": "7.3 先进先出（FIFO）",
+          "pdf_pages": [
+            67,
+            68
+          ]
+        },
+        {
+          "path": "sections/7.4.md",
+          "title": "7.4 最短任务优先（SJF）",
+          "pdf_pages": [
+            68,
+            69
+          ]
+        },
+        {
+          "path": "sections/7.5.md",
+          "title": "7.5 最短完成时间优先（STCF）",
+          "pdf_pages": [
+            69,
+            69
+          ]
+        },
+        {
+          "path": "sections/7.6.md",
+          "title": "7.6 新度量指标：响应时间",
+          "pdf_pages": [
+            70,
+            70
+          ]
+        },
+        {
+          "path": "sections/7.7.md",
+          "title": "7.7 轮转",
+          "pdf_pages": [
+            70,
+            71
+          ]
+        },
+        {
+          "path": "sections/7.8.md",
+          "title": "7.8 结合I/O",
+          "pdf_pages": [
+            72,
+            72
+          ]
+        },
+        {
+          "path": "sections/7.9.md",
+          "title": "7.9 无法预知",
+          "pdf_pages": [
+            72,
+            73
+          ]
+        },
+        {
+          "path": "sections/7.10.md",
+          "title": "7.10 小结",
+          "pdf_pages": [
+            73,
+            73
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            73,
+            74
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            74,
+            74
+          ]
+        },
+        {
+          "path": "sections/section-13.md",
+          "title": "问题",
+          "pdf_pages": [
+            74,
+            74
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "kind": "chapter",
+      "title": "第 8 章 调度：多级反馈队列",
+      "directory": "第08章-调度多级反馈队列",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 8 章 调度：多级反馈队列",
+          "pdf_pages": [
+            75,
+            75
+          ]
+        },
+        {
+          "path": "sections/8.1.md",
+          "title": "8.1 MLFQ：基本规则",
+          "pdf_pages": [
+            75,
+            76
+          ]
+        },
+        {
+          "path": "sections/8.2.md",
+          "title": "8.2 尝试1：如何改变优先级",
+          "pdf_pages": [
+            76,
+            78
+          ]
+        },
+        {
+          "path": "sections/8.3.md",
+          "title": "8.3 尝试2：提升优先级",
+          "pdf_pages": [
+            78,
+            79
+          ]
+        },
+        {
+          "path": "sections/8.4.md",
+          "title": "8.4 尝试3：更好的计时方式",
+          "pdf_pages": [
+            79,
+            79
+          ]
+        },
+        {
+          "path": "sections/8.5.md",
+          "title": "8.5 MLFQ 调优及其他问题",
+          "pdf_pages": [
+            79,
+            80
+          ]
+        },
+        {
+          "path": "sections/8.6.md",
+          "title": "8.6 MLFQ：小结",
+          "pdf_pages": [
+            80,
+            81
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            81,
+            82
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            82,
+            82
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            82,
+            82
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "kind": "chapter",
+      "title": "第 9 章 调度：比例份额",
+      "directory": "第09章-调度比例份额",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 9 章 调度：比例份额",
+          "pdf_pages": [
+            83,
+            83
+          ]
+        },
+        {
+          "path": "sections/9.1.md",
+          "title": "9.1 基本概念：彩票数表示份额",
+          "pdf_pages": [
+            83,
+            84
+          ]
+        },
+        {
+          "path": "sections/9.2.md",
+          "title": "9.2 彩票机制",
+          "pdf_pages": [
+            84,
+            85
+          ]
+        },
+        {
+          "path": "sections/9.3.md",
+          "title": "9.3 实现",
+          "pdf_pages": [
+            85,
+            86
+          ]
+        },
+        {
+          "path": "sections/9.4.md",
+          "title": "9.4 一个例子",
+          "pdf_pages": [
+            86,
+            86
+          ]
+        },
+        {
+          "path": "sections/9.5.md",
+          "title": "9.5 如何分配彩票",
+          "pdf_pages": [
+            86,
+            86
+          ]
+        },
+        {
+          "path": "sections/9.6.md",
+          "title": "9.6 为什么不是确定的",
+          "pdf_pages": [
+            87,
+            88
+          ]
+        },
+        {
+          "path": "sections/9.7.md",
+          "title": "9.7 小结",
+          "pdf_pages": [
+            88,
+            88
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            88,
+            89
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            89,
+            89
+          ]
+        },
+        {
+          "path": "sections/section-10.md",
+          "title": "问题",
+          "pdf_pages": [
+            89,
+            90
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "kind": "chapter",
+      "title": "第 10 章 多处理器调度（高级）",
+      "directory": "第10章-多处理器调度高级",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 10 章 多处理器调度（高级）",
+          "pdf_pages": [
+            91,
+            91
+          ]
+        },
+        {
+          "path": "sections/10.1.md",
+          "title": "10.1 背景：多处理器架构",
+          "pdf_pages": [
+            91,
+            93
+          ]
+        },
+        {
+          "path": "sections/10.2.md",
+          "title": "10.2 别忘了同步",
+          "pdf_pages": [
+            93,
+            93
+          ]
+        },
+        {
+          "path": "sections/10.3.md",
+          "title": "10.3 最后一个问题：缓存亲和度",
+          "pdf_pages": [
+            94,
+            94
+          ]
+        },
+        {
+          "path": "sections/10.4.md",
+          "title": "10.4 单队列调度",
+          "pdf_pages": [
+            94,
+            95
+          ]
+        },
+        {
+          "path": "sections/10.5.md",
+          "title": "10.5 多队列调度",
+          "pdf_pages": [
+            95,
+            97
+          ]
+        },
+        {
+          "path": "sections/10.6.md",
+          "title": "10.6 Linux 多处理器调度",
+          "pdf_pages": [
+            97,
+            97
+          ]
+        },
+        {
+          "path": "sections/10.7.md",
+          "title": "10.7 小结",
+          "pdf_pages": [
+            97,
+            97
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            97,
+            98
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "kind": "chapter",
+      "title": "第 11 章 关于CPU虚拟化的总结对话",
+      "directory": "第11章-关于CPU虚拟化的总结对话",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 11 章 关于CPU虚拟化的总结对话",
+          "pdf_pages": [
+            99,
+            100
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "kind": "chapter",
+      "title": "第 12 章 关于内存虚拟化的对话",
+      "directory": "第12章-关于内存虚拟化的对话",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 12 章 关于内存虚拟化的对话",
+          "pdf_pages": [
+            101,
+            102
+          ]
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "kind": "chapter",
+      "title": "第 13 章 抽象：地址空间",
+      "directory": "第13章-抽象地址空间",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 13 章 抽象：地址空间",
+          "pdf_pages": [
+            103,
+            103
+          ]
+        },
+        {
+          "path": "sections/13.1.md",
+          "title": "13.1 早期系统",
+          "pdf_pages": [
+            103,
+            103
+          ]
+        },
+        {
+          "path": "sections/13.2.md",
+          "title": "13.2 多道程序和时分共享",
+          "pdf_pages": [
+            103,
+            104
+          ]
+        },
+        {
+          "path": "sections/13.3.md",
+          "title": "13.3 地址空间",
+          "pdf_pages": [
+            104,
+            105
+          ]
+        },
+        {
+          "path": "sections/13.4.md",
+          "title": "13.4 目标",
+          "pdf_pages": [
+            105,
+            106
+          ]
+        },
+        {
+          "path": "sections/13.5.md",
+          "title": "13.5 小结",
+          "pdf_pages": [
+            107,
+            107
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            107,
+            108
+          ]
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "kind": "chapter",
+      "title": "第 14 章 插叙：内存操作API",
+      "directory": "第14章-插叙内存操作API",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 14 章 插叙：内存操作API",
+          "pdf_pages": [
+            109,
+            109
+          ]
+        },
+        {
+          "path": "sections/14.1.md",
+          "title": "14.1 内存类型",
+          "pdf_pages": [
+            109,
+            110
+          ]
+        },
+        {
+          "path": "sections/14.2.md",
+          "title": "14.2 malloc()调用",
+          "pdf_pages": [
+            110,
+            111
+          ]
+        },
+        {
+          "path": "sections/14.3.md",
+          "title": "14.3 free()调用",
+          "pdf_pages": [
+            111,
+            111
+          ]
+        },
+        {
+          "path": "sections/14.4.md",
+          "title": "14.4 常见错误",
+          "pdf_pages": [
+            111,
+            114
+          ]
+        },
+        {
+          "path": "sections/14.5.md",
+          "title": "14.5 底层操作系统支持",
+          "pdf_pages": [
+            114,
+            114
+          ]
+        },
+        {
+          "path": "sections/14.6.md",
+          "title": "14.6 其他调用",
+          "pdf_pages": [
+            115,
+            115
+          ]
+        },
+        {
+          "path": "sections/14.7.md",
+          "title": "14.7 小结",
+          "pdf_pages": [
+            115,
+            115
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            115,
+            116
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业（编码）",
+          "pdf_pages": [
+            116,
+            116
+          ]
+        },
+        {
+          "path": "sections/section-10.md",
+          "title": "问题",
+          "pdf_pages": [
+            116,
+            117
+          ]
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "kind": "chapter",
+      "title": "第 15 章 机制：地址转换",
+      "directory": "第15章-机制地址转换",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 15 章 机制：地址转换",
+          "pdf_pages": [
+            118,
+            118
+          ]
+        },
+        {
+          "path": "sections/15.1.md",
+          "title": "15.1 假设",
+          "pdf_pages": [
+            119,
+            119
+          ]
+        },
+        {
+          "path": "sections/15.2.md",
+          "title": "15.2 一个例子",
+          "pdf_pages": [
+            119,
+            120
+          ]
+        },
+        {
+          "path": "sections/15.3.md",
+          "title": "15.3 动态（基于硬件）重定位",
+          "pdf_pages": [
+            121,
+            122
+          ]
+        },
+        {
+          "path": "sections/15.4.md",
+          "title": "15.4 硬件支持：总结",
+          "pdf_pages": [
+            123,
+            123
+          ]
+        },
+        {
+          "path": "sections/15.5.md",
+          "title": "15.5 操作系统的问题",
+          "pdf_pages": [
+            123,
+            126
+          ]
+        },
+        {
+          "path": "sections/15.6.md",
+          "title": "15.6 小结",
+          "pdf_pages": [
+            126,
+            127
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            127,
+            128
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            128,
+            128
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            128,
+            128
+          ]
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "kind": "chapter",
+      "title": "第 16 章 分段",
+      "directory": "第16章-分段",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 16 章 分段",
+          "pdf_pages": [
+            129,
+            129
+          ]
+        },
+        {
+          "path": "sections/16.1.md",
+          "title": "16.1 分段：泛化的基址/界限",
+          "pdf_pages": [
+            129,
+            131
+          ]
+        },
+        {
+          "path": "sections/16.2.md",
+          "title": "16.2 我们引用哪个段",
+          "pdf_pages": [
+            131,
+            132
+          ]
+        },
+        {
+          "path": "sections/16.3.md",
+          "title": "16.3 栈怎么办",
+          "pdf_pages": [
+            132,
+            132
+          ]
+        },
+        {
+          "path": "sections/16.4.md",
+          "title": "16.4 支持共享",
+          "pdf_pages": [
+            132,
+            133
+          ]
+        },
+        {
+          "path": "sections/16.5.md",
+          "title": "16.5 细粒度与粗粒度的分段",
+          "pdf_pages": [
+            133,
+            133
+          ]
+        },
+        {
+          "path": "sections/16.6.md",
+          "title": "16.6 操作系统支持",
+          "pdf_pages": [
+            133,
+            134
+          ]
+        },
+        {
+          "path": "sections/16.7.md",
+          "title": "16.7 小结",
+          "pdf_pages": [
+            135,
+            135
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            135,
+            136
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            136,
+            136
+          ]
+        },
+        {
+          "path": "sections/section-10.md",
+          "title": "问题",
+          "pdf_pages": [
+            137,
+            137
+          ]
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "kind": "chapter",
+      "title": "第 17 章 空闲空间管理",
+      "directory": "第17章-空闲空间管理",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 17 章 空闲空间管理",
+          "pdf_pages": [
+            138,
+            138
+          ]
+        },
+        {
+          "path": "sections/17.1.md",
+          "title": "17.1 假设",
+          "pdf_pages": [
+            138,
+            139
+          ]
+        },
+        {
+          "path": "sections/17.2.md",
+          "title": "17.2 底层机制",
+          "pdf_pages": [
+            139,
+            144
+          ]
+        },
+        {
+          "path": "sections/17.3.md",
+          "title": "17.3 基本策略",
+          "pdf_pages": [
+            144,
+            146
+          ]
+        },
+        {
+          "path": "sections/17.4.md",
+          "title": "17.4 其他方式",
+          "pdf_pages": [
+            146,
+            148
+          ]
+        },
+        {
+          "path": "sections/17.5.md",
+          "title": "17.5 小结",
+          "pdf_pages": [
+            148,
+            148
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            148,
+            149
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            149,
+            149
+          ]
+        },
+        {
+          "path": "sections/section-8.md",
+          "title": "问题",
+          "pdf_pages": [
+            149,
+            149
+          ]
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "第 18 章 分页：介绍",
+      "directory": "第18章-分页介绍",
+      "sections": [
+        {
+          "path": "sections/18.0-introduction.md",
+          "title": "第 18 章 分页：介绍",
+          "pdf_pages": [
+            150,
+            150
+          ]
+        },
+        {
+          "path": "sections/18.1-simple-example.md",
+          "title": "18.1 一个简单例子",
+          "pdf_pages": [
+            150,
+            152
+          ]
+        },
+        {
+          "path": "sections/18.2-page-table-location.md",
+          "title": "18.2 页表存在哪里",
+          "pdf_pages": [
+            152,
+            153
+          ]
+        },
+        {
+          "path": "sections/18.3-page-table-contents.md",
+          "title": "18.3 列表中究竟有什么",
+          "pdf_pages": [
+            153,
+            154
+          ]
+        },
+        {
+          "path": "sections/18.4-paging-cost.md",
+          "title": "18.4 分页：也很慢",
+          "pdf_pages": [
+            154,
+            155
+          ]
+        },
+        {
+          "path": "sections/18.5-memory-trace.md",
+          "title": "18.5 内存追踪",
+          "pdf_pages": [
+            155,
+            157
+          ]
+        },
+        {
+          "path": "sections/18.6-summary.md",
+          "title": "18.6 小结",
+          "pdf_pages": [
+            157,
+            157
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            157,
+            158
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            158,
+            159
+          ]
+        }
+      ],
+      "kind": "chapter",
+      "part": "第一部分 · 虚拟化",
+      "status": "proofread"
+    },
+    {
+      "id": "19",
+      "kind": "chapter",
+      "title": "第 19 章 分页：快速地址转换（TLB）",
+      "directory": "第19章-分页快速地址转换TLB",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 19 章 分页：快速地址转换（TLB）",
+          "pdf_pages": [
+            160,
+            160
+          ]
+        },
+        {
+          "path": "sections/19.1.md",
+          "title": "19.1 TLB 的基本算法",
+          "pdf_pages": [
+            160,
+            161
+          ]
+        },
+        {
+          "path": "sections/19.2.md",
+          "title": "19.2 示例：访问数组",
+          "pdf_pages": [
+            161,
+            163
+          ]
+        },
+        {
+          "path": "sections/19.3.md",
+          "title": "19.3 谁来处理TLB 未命中",
+          "pdf_pages": [
+            163,
+            164
+          ]
+        },
+        {
+          "path": "sections/19.4.md",
+          "title": "19.4 TLB 的内容",
+          "pdf_pages": [
+            164,
+            165
+          ]
+        },
+        {
+          "path": "sections/19.5.md",
+          "title": "19.5 上下文切换时对TLB 的处理",
+          "pdf_pages": [
+            165,
+            167
+          ]
+        },
+        {
+          "path": "sections/19.6.md",
+          "title": "19.6 TLB 替换策略",
+          "pdf_pages": [
+            167,
+            167
+          ]
+        },
+        {
+          "path": "sections/19.7.md",
+          "title": "19.7 实际系统的TLB 表项",
+          "pdf_pages": [
+            167,
+            168
+          ]
+        },
+        {
+          "path": "sections/19.8.md",
+          "title": "19.8 小结",
+          "pdf_pages": [
+            168,
+            169
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            169,
+            170
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业（测量）",
+          "pdf_pages": [
+            170,
+            171
+          ]
+        },
+        {
+          "path": "sections/section-11.md",
+          "title": "问题",
+          "pdf_pages": [
+            171,
+            171
+          ]
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "kind": "chapter",
+      "title": "第 20 章 分页：较小的表",
+      "directory": "第20章-分页较小的表",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 20 章 分页：较小的表",
+          "pdf_pages": [
+            172,
+            172
+          ]
+        },
+        {
+          "path": "sections/20.1.md",
+          "title": "20.1 简单的解决方案：更大的页",
+          "pdf_pages": [
+            172,
+            173
+          ]
+        },
+        {
+          "path": "sections/20.2.md",
+          "title": "20.2 混合方法：分页和分段",
+          "pdf_pages": [
+            173,
+            175
+          ]
+        },
+        {
+          "path": "sections/20.3.md",
+          "title": "20.3 多级页表",
+          "pdf_pages": [
+            175,
+            180
+          ]
+        },
+        {
+          "path": "sections/20.4.md",
+          "title": "20.4 反向页表",
+          "pdf_pages": [
+            180,
+            181
+          ]
+        },
+        {
+          "path": "sections/20.5.md",
+          "title": "20.5 将页表交换到磁盘",
+          "pdf_pages": [
+            181,
+            181
+          ]
+        },
+        {
+          "path": "sections/20.6.md",
+          "title": "20.6 小结",
+          "pdf_pages": [
+            181,
+            181
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            181,
+            182
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            182,
+            182
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            182,
+            182
+          ]
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "kind": "chapter",
+      "title": "第 21 章 超越物理内存：机制",
+      "directory": "第21章-超越物理内存机制",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 21 章 超越物理内存：机制",
+          "pdf_pages": [
+            183,
+            183
+          ]
+        },
+        {
+          "path": "sections/21.1.md",
+          "title": "21.1 交换空间",
+          "pdf_pages": [
+            183,
+            184
+          ]
+        },
+        {
+          "path": "sections/21.2.md",
+          "title": "21.2 存在位",
+          "pdf_pages": [
+            184,
+            185
+          ]
+        },
+        {
+          "path": "sections/21.3.md",
+          "title": "21.3 页错误",
+          "pdf_pages": [
+            185,
+            186
+          ]
+        },
+        {
+          "path": "sections/21.4.md",
+          "title": "21.4 内存满了怎么办",
+          "pdf_pages": [
+            186,
+            186
+          ]
+        },
+        {
+          "path": "sections/21.5.md",
+          "title": "21.5 页错误处理流程",
+          "pdf_pages": [
+            186,
+            187
+          ]
+        },
+        {
+          "path": "sections/21.6.md",
+          "title": "21.6 交换何时真正发生",
+          "pdf_pages": [
+            187,
+            188
+          ]
+        },
+        {
+          "path": "sections/21.7.md",
+          "title": "21.7 小结",
+          "pdf_pages": [
+            188,
+            188
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            189,
+            189
+          ]
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "kind": "chapter",
+      "title": "第 22 章 超越物理内存：策略",
+      "directory": "第22章-超越物理内存策略",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 22 章 超越物理内存：策略",
+          "pdf_pages": [
+            190,
+            190
+          ]
+        },
+        {
+          "path": "sections/22.1.md",
+          "title": "22.1 缓存管理",
+          "pdf_pages": [
+            190,
+            191
+          ]
+        },
+        {
+          "path": "sections/22.2.md",
+          "title": "22.2 最优替换策略",
+          "pdf_pages": [
+            191,
+            193
+          ]
+        },
+        {
+          "path": "sections/22.3.md",
+          "title": "22.3 简单策略：FIFO",
+          "pdf_pages": [
+            193,
+            194
+          ]
+        },
+        {
+          "path": "sections/22.4.md",
+          "title": "22.4 另一简单策略：随机",
+          "pdf_pages": [
+            194,
+            195
+          ]
+        },
+        {
+          "path": "sections/22.5.md",
+          "title": "22.5 利用历史数据：LRU",
+          "pdf_pages": [
+            195,
+            196
+          ]
+        },
+        {
+          "path": "sections/22.6.md",
+          "title": "22.6 工作负载示例",
+          "pdf_pages": [
+            196,
+            198
+          ]
+        },
+        {
+          "path": "sections/22.7.md",
+          "title": "22.7 实现基于历史信息的算法",
+          "pdf_pages": [
+            198,
+            199
+          ]
+        },
+        {
+          "path": "sections/22.8.md",
+          "title": "22.8 近似LRU",
+          "pdf_pages": [
+            199,
+            200
+          ]
+        },
+        {
+          "path": "sections/22.9.md",
+          "title": "22.9 考虑脏页",
+          "pdf_pages": [
+            200,
+            200
+          ]
+        },
+        {
+          "path": "sections/22.10.md",
+          "title": "22.10 其他虚拟内存策略",
+          "pdf_pages": [
+            200,
+            201
+          ]
+        },
+        {
+          "path": "sections/22.11.md",
+          "title": "22.11 抖动",
+          "pdf_pages": [
+            201,
+            201
+          ]
+        },
+        {
+          "path": "sections/22.12.md",
+          "title": "22.12 小结",
+          "pdf_pages": [
+            201,
+            201
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            201,
+            203
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            203,
+            203
+          ]
+        },
+        {
+          "path": "sections/section-15.md",
+          "title": "问题",
+          "pdf_pages": [
+            203,
+            203
+          ]
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "kind": "chapter",
+      "title": "第 23 章 VAX/VMS虚拟内存系统",
+      "directory": "第23章-VAXVMS虚拟内存系统",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 23 章 VAX/VMS虚拟内存系统",
+          "pdf_pages": [
+            204,
+            204
+          ]
+        },
+        {
+          "path": "sections/23.1.md",
+          "title": "23.1 背景",
+          "pdf_pages": [
+            204,
+            204
+          ]
+        },
+        {
+          "path": "sections/23.2.md",
+          "title": "23.2 内存管理硬件",
+          "pdf_pages": [
+            204,
+            205
+          ]
+        },
+        {
+          "path": "sections/23.3.md",
+          "title": "23.3 一个真实的地址空间",
+          "pdf_pages": [
+            205,
+            206
+          ]
+        },
+        {
+          "path": "sections/23.4.md",
+          "title": "23.4 页替换",
+          "pdf_pages": [
+            207,
+            208
+          ]
+        },
+        {
+          "path": "sections/23.5.md",
+          "title": "23.5 其他漂亮的虚拟内存技巧",
+          "pdf_pages": [
+            208,
+            209
+          ]
+        },
+        {
+          "path": "sections/23.6.md",
+          "title": "23.6 小结",
+          "pdf_pages": [
+            209,
+            209
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            209,
+            210
+          ]
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "kind": "chapter",
+      "title": "第 24 章 内存虚拟化总结对话",
+      "directory": "第24章-内存虚拟化总结对话",
+      "part": "第一部分 · 虚拟化",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 24 章 内存虚拟化总结对话",
+          "pdf_pages": [
+            211,
+            212
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-213",
+      "kind": "front_matter",
+      "title": "第2部分 并发",
+      "directory": "书前与导语/第2部分-并发",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第2部分 并发",
+          "pdf_pages": [
+            213,
+            213
+          ]
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "kind": "chapter",
+      "title": "第 25 章 关于并发的对话",
+      "directory": "第25章-关于并发的对话",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 25 章 关于并发的对话",
+          "pdf_pages": [
+            214,
+            215
+          ]
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "kind": "chapter",
+      "title": "第 26 章 并发：介绍",
+      "directory": "第26章-并发介绍",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 26 章 并发：介绍",
+          "pdf_pages": [
+            216,
+            217
+          ]
+        },
+        {
+          "path": "sections/26.1.md",
+          "title": "26.1 实例：线程创建",
+          "pdf_pages": [
+            217,
+            219
+          ]
+        },
+        {
+          "path": "sections/26.2.md",
+          "title": "26.2 为什么更糟糕：共享数据",
+          "pdf_pages": [
+            219,
+            221
+          ]
+        },
+        {
+          "path": "sections/26.3.md",
+          "title": "26.3 核心问题：不可控的调度",
+          "pdf_pages": [
+            221,
+            223
+          ]
+        },
+        {
+          "path": "sections/26.4.md",
+          "title": "26.4 原子性愿望",
+          "pdf_pages": [
+            223,
+            224
+          ]
+        },
+        {
+          "path": "sections/26.5.md",
+          "title": "26.5 还有一个问题：等待另一个线程",
+          "pdf_pages": [
+            224,
+            225
+          ]
+        },
+        {
+          "path": "sections/26.6.md",
+          "title": "26.6 小结：为什么操作系统课要研究并发",
+          "pdf_pages": [
+            225,
+            225
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            225,
+            226
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            226,
+            226
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            226,
+            227
+          ]
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "kind": "chapter",
+      "title": "第 27 章 插叙：线程API",
+      "directory": "第27章-插叙线程API",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 27 章 插叙：线程API",
+          "pdf_pages": [
+            228,
+            228
+          ]
+        },
+        {
+          "path": "sections/27.1.md",
+          "title": "27.1 线程创建",
+          "pdf_pages": [
+            228,
+            229
+          ]
+        },
+        {
+          "path": "sections/27.2.md",
+          "title": "27.2 线程完成",
+          "pdf_pages": [
+            229,
+            232
+          ]
+        },
+        {
+          "path": "sections/27.3.md",
+          "title": "27.3 锁",
+          "pdf_pages": [
+            232,
+            233
+          ]
+        },
+        {
+          "path": "sections/27.4.md",
+          "title": "27.4 条件变量",
+          "pdf_pages": [
+            233,
+            234
+          ]
+        },
+        {
+          "path": "sections/27.5.md",
+          "title": "27.5 编译和运行",
+          "pdf_pages": [
+            235,
+            235
+          ]
+        },
+        {
+          "path": "sections/27.6.md",
+          "title": "27.6 小结",
+          "pdf_pages": [
+            235,
+            235
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            236,
+            236
+          ]
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "kind": "chapter",
+      "title": "第 28 章 锁",
+      "directory": "第28章-锁",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 28 章 锁",
+          "pdf_pages": [
+            237,
+            237
+          ]
+        },
+        {
+          "path": "sections/28.1.md",
+          "title": "28.1 锁的基本思想",
+          "pdf_pages": [
+            237,
+            237
+          ]
+        },
+        {
+          "path": "sections/28.2.md",
+          "title": "28.2 Pthread 锁",
+          "pdf_pages": [
+            238,
+            238
+          ]
+        },
+        {
+          "path": "sections/28.3.md",
+          "title": "28.3 实现一个锁",
+          "pdf_pages": [
+            238,
+            238
+          ]
+        },
+        {
+          "path": "sections/28.4.md",
+          "title": "28.4 评价锁",
+          "pdf_pages": [
+            238,
+            239
+          ]
+        },
+        {
+          "path": "sections/28.5.md",
+          "title": "28.5 控制中断",
+          "pdf_pages": [
+            239,
+            240
+          ]
+        },
+        {
+          "path": "sections/28.6.md",
+          "title": "28.6 测试并设置指令（原子交换）",
+          "pdf_pages": [
+            240,
+            241
+          ]
+        },
+        {
+          "path": "sections/28.7.md",
+          "title": "28.7 实现可用的自旋锁",
+          "pdf_pages": [
+            241,
+            243
+          ]
+        },
+        {
+          "path": "sections/28.8.md",
+          "title": "28.8 评价自旋锁",
+          "pdf_pages": [
+            243,
+            243
+          ]
+        },
+        {
+          "path": "sections/28.9.md",
+          "title": "28.9 比较并交换",
+          "pdf_pages": [
+            243,
+            244
+          ]
+        },
+        {
+          "path": "sections/28.10.md",
+          "title": "28.10 链接的加载和条件式存储指令",
+          "pdf_pages": [
+            244,
+            246
+          ]
+        },
+        {
+          "path": "sections/28.11.md",
+          "title": "28.11 获取并增加",
+          "pdf_pages": [
+            246,
+            247
+          ]
+        },
+        {
+          "path": "sections/28.12.md",
+          "title": "28.12 自旋过多：怎么办",
+          "pdf_pages": [
+            247,
+            247
+          ]
+        },
+        {
+          "path": "sections/28.13.md",
+          "title": "28.13 简单方法：让出来吧，宝贝",
+          "pdf_pages": [
+            247,
+            248
+          ]
+        },
+        {
+          "path": "sections/28.14.md",
+          "title": "28.14 使用队列：休眠替代自旋",
+          "pdf_pages": [
+            248,
+            250
+          ]
+        },
+        {
+          "path": "sections/28.15.md",
+          "title": "28.15 不同操作系统，不同实现",
+          "pdf_pages": [
+            250,
+            251
+          ]
+        },
+        {
+          "path": "sections/28.16.md",
+          "title": "28.16 两阶段锁",
+          "pdf_pages": [
+            251,
+            251
+          ]
+        },
+        {
+          "path": "sections/28.17.md",
+          "title": "28.17 小结",
+          "pdf_pages": [
+            251,
+            251
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            251,
+            253
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            253,
+            253
+          ]
+        },
+        {
+          "path": "sections/section-20.md",
+          "title": "问题",
+          "pdf_pages": [
+            253,
+            254
+          ]
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "kind": "chapter",
+      "title": "第 29 章 基于锁的并发数据结构",
+      "directory": "第29章-基于锁的并发数据结构",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 29 章 基于锁的并发数据结构",
+          "pdf_pages": [
+            255,
+            255
+          ]
+        },
+        {
+          "path": "sections/29.1.md",
+          "title": "29.1 并发计数器",
+          "pdf_pages": [
+            255,
+            259
+          ]
+        },
+        {
+          "path": "sections/29.2.md",
+          "title": "29.2 并发链表",
+          "pdf_pages": [
+            259,
+            262
+          ]
+        },
+        {
+          "path": "sections/29.3.md",
+          "title": "29.3 并发队列",
+          "pdf_pages": [
+            262,
+            263
+          ]
+        },
+        {
+          "path": "sections/29.4.md",
+          "title": "29.4 并发散列表",
+          "pdf_pages": [
+            263,
+            264
+          ]
+        },
+        {
+          "path": "sections/29.5.md",
+          "title": "29.5 小结",
+          "pdf_pages": [
+            264,
+            265
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            265,
+            266
+          ]
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "kind": "chapter",
+      "title": "第 30 章 条件变量",
+      "directory": "第30章-条件变量",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 30 章 条件变量",
+          "pdf_pages": [
+            267,
+            268
+          ]
+        },
+        {
+          "path": "sections/30.1.md",
+          "title": "30.1 定义和程序",
+          "pdf_pages": [
+            268,
+            270
+          ]
+        },
+        {
+          "path": "sections/30.2.md",
+          "title": "30.2 生产者/消费者（有界缓冲区）问题",
+          "pdf_pages": [
+            270,
+            278
+          ]
+        },
+        {
+          "path": "sections/30.3.md",
+          "title": "30.3 覆盖条件",
+          "pdf_pages": [
+            278,
+            279
+          ]
+        },
+        {
+          "path": "sections/30.4.md",
+          "title": "30.4 小结",
+          "pdf_pages": [
+            279,
+            279
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            279,
+            280
+          ]
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "kind": "chapter",
+      "title": "第 31 章 信号量",
+      "directory": "第31章-信号量",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 31 章 信号量",
+          "pdf_pages": [
+            281,
+            281
+          ]
+        },
+        {
+          "path": "sections/31.1.md",
+          "title": "31.1 信号量的定义",
+          "pdf_pages": [
+            281,
+            282
+          ]
+        },
+        {
+          "path": "sections/31.2.md",
+          "title": "31.2 二值信号量（锁）",
+          "pdf_pages": [
+            282,
+            284
+          ]
+        },
+        {
+          "path": "sections/31.3.md",
+          "title": "31.3 信号量用作条件变量",
+          "pdf_pages": [
+            284,
+            285
+          ]
+        },
+        {
+          "path": "sections/31.4.md",
+          "title": "31.4 生产者/消费者（有界缓冲区）问题",
+          "pdf_pages": [
+            286,
+            289
+          ]
+        },
+        {
+          "path": "sections/31.5.md",
+          "title": "31.5 读者—写者锁",
+          "pdf_pages": [
+            289,
+            291
+          ]
+        },
+        {
+          "path": "sections/31.6.md",
+          "title": "31.6 哲学家就餐问题",
+          "pdf_pages": [
+            291,
+            293
+          ]
+        },
+        {
+          "path": "sections/31.7.md",
+          "title": "31.7 如何实现信号量",
+          "pdf_pages": [
+            293,
+            294
+          ]
+        },
+        {
+          "path": "sections/31.8.md",
+          "title": "31.8 小结",
+          "pdf_pages": [
+            294,
+            294
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            294,
+            296
+          ]
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "kind": "chapter",
+      "title": "第 32 章 常见并发问题",
+      "directory": "第32章-常见并发问题",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 32 章 常见并发问题",
+          "pdf_pages": [
+            297,
+            297
+          ]
+        },
+        {
+          "path": "sections/32.1.md",
+          "title": "32.1 有哪些类型的缺陷",
+          "pdf_pages": [
+            297,
+            297
+          ]
+        },
+        {
+          "path": "sections/32.2.md",
+          "title": "32.2 非死锁缺陷",
+          "pdf_pages": [
+            298,
+            300
+          ]
+        },
+        {
+          "path": "sections/32.3.md",
+          "title": "32.3 死锁缺陷",
+          "pdf_pages": [
+            300,
+            306
+          ]
+        },
+        {
+          "path": "sections/32.4.md",
+          "title": "32.4 小结",
+          "pdf_pages": [
+            306,
+            307
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            307,
+            308
+          ]
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "kind": "chapter",
+      "title": "第 33 章 基于事件的并发（进阶）",
+      "directory": "第33章-基于事件的并发进阶",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 33 章 基于事件的并发（进阶）",
+          "pdf_pages": [
+            309,
+            309
+          ]
+        },
+        {
+          "path": "sections/33.1.md",
+          "title": "33.1 基本想法：事件循环",
+          "pdf_pages": [
+            309,
+            310
+          ]
+        },
+        {
+          "path": "sections/33.2.md",
+          "title": "33.2 重要API：select()（或poll()）",
+          "pdf_pages": [
+            310,
+            310
+          ]
+        },
+        {
+          "path": "sections/33.3.md",
+          "title": "33.3 使用select()",
+          "pdf_pages": [
+            311,
+            312
+          ]
+        },
+        {
+          "path": "sections/33.4.md",
+          "title": "33.4 为何更简单？无须锁",
+          "pdf_pages": [
+            312,
+            312
+          ]
+        },
+        {
+          "path": "sections/33.5.md",
+          "title": "33.5 一个问题：阻塞系统调用",
+          "pdf_pages": [
+            312,
+            312
+          ]
+        },
+        {
+          "path": "sections/33.6.md",
+          "title": "33.6 解决方案：异步I/O",
+          "pdf_pages": [
+            312,
+            314
+          ]
+        },
+        {
+          "path": "sections/33.7.md",
+          "title": "33.7 另一个问题：状态管理",
+          "pdf_pages": [
+            314,
+            315
+          ]
+        },
+        {
+          "path": "sections/33.8.md",
+          "title": "33.8 什么事情仍然很难",
+          "pdf_pages": [
+            315,
+            316
+          ]
+        },
+        {
+          "path": "sections/33.9.md",
+          "title": "33.9 小结",
+          "pdf_pages": [
+            316,
+            316
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            316,
+            317
+          ]
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "kind": "chapter",
+      "title": "第 34 章 并发的总结对话",
+      "directory": "第34章-并发的总结对话",
+      "part": "第二部分 · 并发",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 34 章 并发的总结对话",
+          "pdf_pages": [
+            318,
+            318
+          ]
+        }
+      ]
+    },
+    {
+      "id": "front-319",
+      "kind": "front_matter",
+      "title": "第3部分 持久性",
+      "directory": "书前与导语/第3部分-持久性",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第3部分 持久性",
+          "pdf_pages": [
+            319,
+            319
+          ]
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "kind": "chapter",
+      "title": "第 35 章 关于持久性的对话",
+      "directory": "第35章-关于持久性的对话",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 35 章 关于持久性的对话",
+          "pdf_pages": [
+            320,
+            320
+          ]
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "kind": "chapter",
+      "title": "第 36 章 I/O设备",
+      "directory": "第36章-IO设备",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 36 章 I/O设备",
+          "pdf_pages": [
+            321,
+            321
+          ]
+        },
+        {
+          "path": "sections/36.1.md",
+          "title": "36.1 系统架构",
+          "pdf_pages": [
+            321,
+            322
+          ]
+        },
+        {
+          "path": "sections/36.2.md",
+          "title": "36.2 标准设备",
+          "pdf_pages": [
+            322,
+            322
+          ]
+        },
+        {
+          "path": "sections/36.3.md",
+          "title": "36.3 标准协议",
+          "pdf_pages": [
+            322,
+            323
+          ]
+        },
+        {
+          "path": "sections/36.4.md",
+          "title": "36.4 利用中断减少CPU 开销",
+          "pdf_pages": [
+            323,
+            324
+          ]
+        },
+        {
+          "path": "sections/36.5.md",
+          "title": "36.5 利用DMA 进行更高效的数据传送",
+          "pdf_pages": [
+            324,
+            325
+          ]
+        },
+        {
+          "path": "sections/36.6.md",
+          "title": "36.6 设备交互的方法",
+          "pdf_pages": [
+            325,
+            325
+          ]
+        },
+        {
+          "path": "sections/36.7.md",
+          "title": "36.7 纳入操作系统：设备驱动程序",
+          "pdf_pages": [
+            325,
+            326
+          ]
+        },
+        {
+          "path": "sections/36.8.md",
+          "title": "36.8 案例研究：简单的IDE 磁盘驱动程序",
+          "pdf_pages": [
+            327,
+            329
+          ]
+        },
+        {
+          "path": "sections/36.9.md",
+          "title": "36.9 历史记录",
+          "pdf_pages": [
+            329,
+            329
+          ]
+        },
+        {
+          "path": "sections/36.10.md",
+          "title": "36.10 小结",
+          "pdf_pages": [
+            329,
+            330
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            330,
+            331
+          ]
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "kind": "chapter",
+      "title": "第 37 章 磁盘驱动器",
+      "directory": "第37章-磁盘驱动器",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 37 章 磁盘驱动器",
+          "pdf_pages": [
+            332,
+            332
+          ]
+        },
+        {
+          "path": "sections/37.1.md",
+          "title": "37.1 接口",
+          "pdf_pages": [
+            332,
+            332
+          ]
+        },
+        {
+          "path": "sections/37.2.md",
+          "title": "37.2 基本几何形状",
+          "pdf_pages": [
+            332,
+            333
+          ]
+        },
+        {
+          "path": "sections/37.3.md",
+          "title": "37.3 简单的磁盘驱动器",
+          "pdf_pages": [
+            333,
+            336
+          ]
+        },
+        {
+          "path": "sections/37.4.md",
+          "title": "37.4 I/O 时间：用数学",
+          "pdf_pages": [
+            336,
+            338
+          ]
+        },
+        {
+          "path": "sections/37.5.md",
+          "title": "37.5 磁盘调度",
+          "pdf_pages": [
+            338,
+            341
+          ]
+        },
+        {
+          "path": "sections/37.6.md",
+          "title": "37.6 小结",
+          "pdf_pages": [
+            341,
+            341
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            341,
+            342
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            342,
+            342
+          ]
+        },
+        {
+          "path": "sections/section-9.md",
+          "title": "问题",
+          "pdf_pages": [
+            342,
+            343
+          ]
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "kind": "chapter",
+      "title": "第 38 章 廉价冗余磁盘阵列（RAID）",
+      "directory": "第38章-廉价冗余磁盘阵列RAID",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 38 章 廉价冗余磁盘阵列（RAID）",
+          "pdf_pages": [
+            344,
+            345
+          ]
+        },
+        {
+          "path": "sections/38.1.md",
+          "title": "38.1 接口和RAID 内部",
+          "pdf_pages": [
+            345,
+            345
+          ]
+        },
+        {
+          "path": "sections/38.2.md",
+          "title": "38.2 故障模型",
+          "pdf_pages": [
+            345,
+            345
+          ]
+        },
+        {
+          "path": "sections/38.3.md",
+          "title": "38.3 如何评估RAID",
+          "pdf_pages": [
+            346,
+            346
+          ]
+        },
+        {
+          "path": "sections/38.4.md",
+          "title": "38.4 RAID 0 级：条带化",
+          "pdf_pages": [
+            346,
+            349
+          ]
+        },
+        {
+          "path": "sections/38.5.md",
+          "title": "38.5 RAID 1 级：镜像",
+          "pdf_pages": [
+            349,
+            351
+          ]
+        },
+        {
+          "path": "sections/38.6.md",
+          "title": "38.6 RAID 4 级：通过奇偶校验节省空间",
+          "pdf_pages": [
+            351,
+            354
+          ]
+        },
+        {
+          "path": "sections/38.7.md",
+          "title": "38.7 RAID 5 级：旋转奇偶校验",
+          "pdf_pages": [
+            354,
+            355
+          ]
+        },
+        {
+          "path": "sections/38.8.md",
+          "title": "38.8 RAID 比较：总结",
+          "pdf_pages": [
+            355,
+            356
+          ]
+        },
+        {
+          "path": "sections/38.9.md",
+          "title": "38.9 其他有趣的RAID 问题",
+          "pdf_pages": [
+            356,
+            356
+          ]
+        },
+        {
+          "path": "sections/38.10.md",
+          "title": "38.10 小结",
+          "pdf_pages": [
+            356,
+            356
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            357,
+            358
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            358,
+            358
+          ]
+        },
+        {
+          "path": "sections/section-13.md",
+          "title": "问题",
+          "pdf_pages": [
+            358,
+            359
+          ]
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "kind": "chapter",
+      "title": "第 39 章 插叙：文件和目录",
+      "directory": "第39章-插叙文件和目录",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 39 章 插叙：文件和目录",
+          "pdf_pages": [
+            360,
+            360
+          ]
+        },
+        {
+          "path": "sections/39.1.md",
+          "title": "39.1 文件和目录",
+          "pdf_pages": [
+            360,
+            361
+          ]
+        },
+        {
+          "path": "sections/39.2.md",
+          "title": "39.2 文件系统接口",
+          "pdf_pages": [
+            361,
+            361
+          ]
+        },
+        {
+          "path": "sections/39.3.md",
+          "title": "39.3 创建文件",
+          "pdf_pages": [
+            361,
+            362
+          ]
+        },
+        {
+          "path": "sections/39.4.md",
+          "title": "39.4 读写文件",
+          "pdf_pages": [
+            362,
+            363
+          ]
+        },
+        {
+          "path": "sections/39.5.md",
+          "title": "39.5 读取和写入，但不按顺序",
+          "pdf_pages": [
+            364,
+            364
+          ]
+        },
+        {
+          "path": "sections/39.6.md",
+          "title": "39.6 用fsync()立即写入",
+          "pdf_pages": [
+            364,
+            365
+          ]
+        },
+        {
+          "path": "sections/39.7.md",
+          "title": "39.7 文件重命名",
+          "pdf_pages": [
+            365,
+            366
+          ]
+        },
+        {
+          "path": "sections/39.8.md",
+          "title": "39.8 获取文件信息",
+          "pdf_pages": [
+            366,
+            367
+          ]
+        },
+        {
+          "path": "sections/39.9.md",
+          "title": "39.9 删除文件",
+          "pdf_pages": [
+            367,
+            367
+          ]
+        },
+        {
+          "path": "sections/39.10.md",
+          "title": "39.10 创建目录",
+          "pdf_pages": [
+            367,
+            368
+          ]
+        },
+        {
+          "path": "sections/39.11.md",
+          "title": "39.11 读取目录",
+          "pdf_pages": [
+            368,
+            369
+          ]
+        },
+        {
+          "path": "sections/39.12.md",
+          "title": "39.12 删除目录",
+          "pdf_pages": [
+            369,
+            369
+          ]
+        },
+        {
+          "path": "sections/39.13.md",
+          "title": "39.13 硬链接",
+          "pdf_pages": [
+            369,
+            370
+          ]
+        },
+        {
+          "path": "sections/39.14.md",
+          "title": "39.14 符号链接",
+          "pdf_pages": [
+            371,
+            372
+          ]
+        },
+        {
+          "path": "sections/39.15.md",
+          "title": "39.15 创建并挂载文件系统",
+          "pdf_pages": [
+            372,
+            373
+          ]
+        },
+        {
+          "path": "sections/39.16.md",
+          "title": "39.16 小结",
+          "pdf_pages": [
+            373,
+            373
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            373,
+            374
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            374,
+            374
+          ]
+        },
+        {
+          "path": "sections/section-19.md",
+          "title": "问题",
+          "pdf_pages": [
+            374,
+            374
+          ]
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "kind": "chapter",
+      "title": "第 40 章 文件系统实现",
+      "directory": "第40章-文件系统实现",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 40 章 文件系统实现",
+          "pdf_pages": [
+            375,
+            375
+          ]
+        },
+        {
+          "path": "sections/40.1.md",
+          "title": "40.1 思考方式",
+          "pdf_pages": [
+            375,
+            376
+          ]
+        },
+        {
+          "path": "sections/40.2.md",
+          "title": "40.2 整体组织",
+          "pdf_pages": [
+            376,
+            377
+          ]
+        },
+        {
+          "path": "sections/40.3.md",
+          "title": "40.3 文件组织：inode",
+          "pdf_pages": [
+            377,
+            381
+          ]
+        },
+        {
+          "path": "sections/40.4.md",
+          "title": "40.4 目录组织",
+          "pdf_pages": [
+            381,
+            381
+          ]
+        },
+        {
+          "path": "sections/40.5.md",
+          "title": "40.5 空闲空间管理",
+          "pdf_pages": [
+            382,
+            382
+          ]
+        },
+        {
+          "path": "sections/40.6.md",
+          "title": "40.6 访问路径：读取和写入",
+          "pdf_pages": [
+            382,
+            385
+          ]
+        },
+        {
+          "path": "sections/40.7.md",
+          "title": "40.7 缓存和缓冲",
+          "pdf_pages": [
+            385,
+            387
+          ]
+        },
+        {
+          "path": "sections/40.8.md",
+          "title": "40.8 小结",
+          "pdf_pages": [
+            387,
+            387
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            387,
+            388
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            388,
+            388
+          ]
+        },
+        {
+          "path": "sections/section-11.md",
+          "title": "问题",
+          "pdf_pages": [
+            389,
+            389
+          ]
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "kind": "chapter",
+      "title": "第 41 章 局部性和快速文件系统",
+      "directory": "第41章-局部性和快速文件系统",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 41 章 局部性和快速文件系统",
+          "pdf_pages": [
+            390,
+            390
+          ]
+        },
+        {
+          "path": "sections/41.1.md",
+          "title": "41.1 问题：性能不佳",
+          "pdf_pages": [
+            390,
+            391
+          ]
+        },
+        {
+          "path": "sections/41.2.md",
+          "title": "41.2 FFS：磁盘意识是解决方案",
+          "pdf_pages": [
+            391,
+            391
+          ]
+        },
+        {
+          "path": "sections/41.3.md",
+          "title": "41.3 组织结构：柱面组",
+          "pdf_pages": [
+            391,
+            392
+          ]
+        },
+        {
+          "path": "sections/41.4.md",
+          "title": "41.4 策略：如何分配文件和目录",
+          "pdf_pages": [
+            392,
+            393
+          ]
+        },
+        {
+          "path": "sections/41.5.md",
+          "title": "41.5 测量文件的局部性",
+          "pdf_pages": [
+            393,
+            394
+          ]
+        },
+        {
+          "path": "sections/41.6.md",
+          "title": "41.6 大文件例外",
+          "pdf_pages": [
+            394,
+            395
+          ]
+        },
+        {
+          "path": "sections/41.7.md",
+          "title": "41.7 关于FFS 的其他几件事",
+          "pdf_pages": [
+            395,
+            396
+          ]
+        },
+        {
+          "path": "sections/41.8.md",
+          "title": "41.8 小结",
+          "pdf_pages": [
+            396,
+            396
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            396,
+            397
+          ]
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "kind": "chapter",
+      "title": "第 42 章 崩溃一致性：FSCK和日志",
+      "directory": "第42章-崩溃一致性FSCK和日志",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 42 章 崩溃一致性：FSCK和日志",
+          "pdf_pages": [
+            398,
+            398
+          ]
+        },
+        {
+          "path": "sections/42.1.md",
+          "title": "42.1 一个详细的例子",
+          "pdf_pages": [
+            398,
+            401
+          ]
+        },
+        {
+          "path": "sections/42.2.md",
+          "title": "42.2 解决方案1：文件系统检查程序",
+          "pdf_pages": [
+            401,
+            402
+          ]
+        },
+        {
+          "path": "sections/42.3.md",
+          "title": "42.3 解决方案2：日志（或预写日志）",
+          "pdf_pages": [
+            402,
+            410
+          ]
+        },
+        {
+          "path": "sections/42.4.md",
+          "title": "42.4 解决方案3：其他方法",
+          "pdf_pages": [
+            410,
+            410
+          ]
+        },
+        {
+          "path": "sections/42.5.md",
+          "title": "42.5 小结",
+          "pdf_pages": [
+            411,
+            411
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            411,
+            412
+          ]
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "kind": "chapter",
+      "title": "第 43 章 日志结构文件系统",
+      "directory": "第43章-日志结构文件系统",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 43 章 日志结构文件系统",
+          "pdf_pages": [
+            413,
+            413
+          ]
+        },
+        {
+          "path": "sections/43.1.md",
+          "title": "43.1 按顺序写入磁盘",
+          "pdf_pages": [
+            414,
+            414
+          ]
+        },
+        {
+          "path": "sections/43.2.md",
+          "title": "43.2 顺序而高效地写入",
+          "pdf_pages": [
+            414,
+            415
+          ]
+        },
+        {
+          "path": "sections/43.3.md",
+          "title": "43.3 要缓冲多少",
+          "pdf_pages": [
+            415,
+            416
+          ]
+        },
+        {
+          "path": "sections/43.4.md",
+          "title": "43.4 问题：查找inode",
+          "pdf_pages": [
+            416,
+            416
+          ]
+        },
+        {
+          "path": "sections/43.5.md",
+          "title": "43.5 通过间接解决方案：inode 映射",
+          "pdf_pages": [
+            416,
+            417
+          ]
+        },
+        {
+          "path": "sections/43.6.md",
+          "title": "43.6 检查点区域",
+          "pdf_pages": [
+            417,
+            418
+          ]
+        },
+        {
+          "path": "sections/43.7.md",
+          "title": "43.7 从磁盘读取文件：回顾",
+          "pdf_pages": [
+            418,
+            418
+          ]
+        },
+        {
+          "path": "sections/43.8.md",
+          "title": "43.8 目录如何",
+          "pdf_pages": [
+            418,
+            419
+          ]
+        },
+        {
+          "path": "sections/43.9.md",
+          "title": "43.9 一个新问题：垃圾收集",
+          "pdf_pages": [
+            419,
+            420
+          ]
+        },
+        {
+          "path": "sections/43.10.md",
+          "title": "43.10 确定块的死活",
+          "pdf_pages": [
+            420,
+            421
+          ]
+        },
+        {
+          "path": "sections/43.11.md",
+          "title": "43.11 策略问题：要清理哪些块，何时清理",
+          "pdf_pages": [
+            421,
+            421
+          ]
+        },
+        {
+          "path": "sections/43.12.md",
+          "title": "43.12 崩溃恢复和日志",
+          "pdf_pages": [
+            421,
+            422
+          ]
+        },
+        {
+          "path": "sections/43.13.md",
+          "title": "43.13 小结",
+          "pdf_pages": [
+            422,
+            422
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            422,
+            424
+          ]
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "kind": "chapter",
+      "title": "第 44 章 数据完整性和保护",
+      "directory": "第44章-数据完整性和保护",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 44 章 数据完整性和保护",
+          "pdf_pages": [
+            425,
+            425
+          ]
+        },
+        {
+          "path": "sections/44.1.md",
+          "title": "44.1 磁盘故障模式",
+          "pdf_pages": [
+            425,
+            426
+          ]
+        },
+        {
+          "path": "sections/44.2.md",
+          "title": "44.2 处理潜在的扇区错误",
+          "pdf_pages": [
+            427,
+            427
+          ]
+        },
+        {
+          "path": "sections/44.3.md",
+          "title": "44.3 检测讹误：校验和",
+          "pdf_pages": [
+            427,
+            429
+          ]
+        },
+        {
+          "path": "sections/44.4.md",
+          "title": "44.4 使用校验和",
+          "pdf_pages": [
+            430,
+            430
+          ]
+        },
+        {
+          "path": "sections/44.5.md",
+          "title": "44.5 一个新问题：错误的写入",
+          "pdf_pages": [
+            430,
+            431
+          ]
+        },
+        {
+          "path": "sections/44.6.md",
+          "title": "44.6 最后一个问题：丢失的写入",
+          "pdf_pages": [
+            431,
+            431
+          ]
+        },
+        {
+          "path": "sections/44.7.md",
+          "title": "44.7 擦净",
+          "pdf_pages": [
+            431,
+            431
+          ]
+        },
+        {
+          "path": "sections/44.8.md",
+          "title": "44.8 校验和的开销",
+          "pdf_pages": [
+            432,
+            432
+          ]
+        },
+        {
+          "path": "sections/44.9.md",
+          "title": "44.9 小结",
+          "pdf_pages": [
+            432,
+            432
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            432,
+            434
+          ]
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "kind": "chapter",
+      "title": "第 45 章 关于持久的总结对话",
+      "directory": "第45章-关于持久的总结对话",
+      "part": "第三部分 · 持久性",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 45 章 关于持久的总结对话",
+          "pdf_pages": [
+            435,
+            435
+          ]
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "kind": "chapter",
+      "title": "第 46 章 关于分布式的对话",
+      "directory": "第46章-关于分布式的对话",
+      "part": "分布式系统",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 46 章 关于分布式的对话",
+          "pdf_pages": [
+            436,
+            436
+          ]
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "kind": "chapter",
+      "title": "第 47 章 分布式系统",
+      "directory": "第47章-分布式系统",
+      "part": "分布式系统",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 47 章 分布式系统",
+          "pdf_pages": [
+            437,
+            438
+          ]
+        },
+        {
+          "path": "sections/47.1.md",
+          "title": "47.1 通信基础",
+          "pdf_pages": [
+            438,
+            438
+          ]
+        },
+        {
+          "path": "sections/47.2.md",
+          "title": "47.2 不可靠的通信层",
+          "pdf_pages": [
+            438,
+            440
+          ]
+        },
+        {
+          "path": "sections/47.3.md",
+          "title": "47.3 可靠的通信层",
+          "pdf_pages": [
+            440,
+            442
+          ]
+        },
+        {
+          "path": "sections/47.4.md",
+          "title": "47.4 通信抽象",
+          "pdf_pages": [
+            442,
+            443
+          ]
+        },
+        {
+          "path": "sections/47.5.md",
+          "title": "47.5 远程过程调用（RPC）",
+          "pdf_pages": [
+            443,
+            446
+          ]
+        },
+        {
+          "path": "sections/47.6.md",
+          "title": "47.6 小结",
+          "pdf_pages": [
+            446,
+            447
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            447,
+            447
+          ]
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "kind": "chapter",
+      "title": "第 48 章 Sun的网络文件系统（NFS）",
+      "directory": "第48章-Sun的网络文件系统NFS",
+      "part": "分布式系统",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 48 章 Sun的网络文件系统（NFS）",
+          "pdf_pages": [
+            448,
+            448
+          ]
+        },
+        {
+          "path": "sections/48.1.md",
+          "title": "48.1 基本分布式文件系统",
+          "pdf_pages": [
+            448,
+            449
+          ]
+        },
+        {
+          "path": "sections/48.2.md",
+          "title": "48.2 交出NFS",
+          "pdf_pages": [
+            449,
+            449
+          ]
+        },
+        {
+          "path": "sections/48.3.md",
+          "title": "48.3 关注点：简单快速的服务器崩溃恢复",
+          "pdf_pages": [
+            449,
+            449
+          ]
+        },
+        {
+          "path": "sections/48.4.md",
+          "title": "48.4 快速崩溃恢复的关键：无状态",
+          "pdf_pages": [
+            450,
+            451
+          ]
+        },
+        {
+          "path": "sections/48.5.md",
+          "title": "48.5 NFSv2 协议",
+          "pdf_pages": [
+            451,
+            452
+          ]
+        },
+        {
+          "path": "sections/48.6.md",
+          "title": "48.6 从协议到分布式文件系统",
+          "pdf_pages": [
+            452,
+            453
+          ]
+        },
+        {
+          "path": "sections/48.7.md",
+          "title": "48.7 利用幂等操作处理服务器故障",
+          "pdf_pages": [
+            453,
+            455
+          ]
+        },
+        {
+          "path": "sections/48.8.md",
+          "title": "48.8 提高性能：客户端缓存",
+          "pdf_pages": [
+            455,
+            455
+          ]
+        },
+        {
+          "path": "sections/48.9.md",
+          "title": "48.9 缓存一致性问题",
+          "pdf_pages": [
+            455,
+            457
+          ]
+        },
+        {
+          "path": "sections/48.10.md",
+          "title": "48.10 评估NFS 的缓存一致性",
+          "pdf_pages": [
+            457,
+            457
+          ]
+        },
+        {
+          "path": "sections/48.11.md",
+          "title": "48.11 服务器端写缓冲的隐含意义",
+          "pdf_pages": [
+            457,
+            458
+          ]
+        },
+        {
+          "path": "sections/48.12.md",
+          "title": "48.12 小结",
+          "pdf_pages": [
+            458,
+            458
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            458,
+            459
+          ]
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "kind": "chapter",
+      "title": "第 49 章 Andrew文件系统（AFS）",
+      "directory": "第49章-Andrew文件系统AFS",
+      "part": "分布式系统",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 49 章 Andrew文件系统（AFS）",
+          "pdf_pages": [
+            460,
+            460
+          ]
+        },
+        {
+          "path": "sections/49.1.md",
+          "title": "49.1 AFS 版本1",
+          "pdf_pages": [
+            460,
+            461
+          ]
+        },
+        {
+          "path": "sections/49.2.md",
+          "title": "49.2 版本1 的问题",
+          "pdf_pages": [
+            461,
+            462
+          ]
+        },
+        {
+          "path": "sections/49.3.md",
+          "title": "49.3 改进协议",
+          "pdf_pages": [
+            462,
+            462
+          ]
+        },
+        {
+          "path": "sections/49.4.md",
+          "title": "49.4 AFS 版本2",
+          "pdf_pages": [
+            462,
+            463
+          ]
+        },
+        {
+          "path": "sections/49.5.md",
+          "title": "49.5 缓存一致性",
+          "pdf_pages": [
+            464,
+            465
+          ]
+        },
+        {
+          "path": "sections/49.6.md",
+          "title": "49.6 崩溃恢复",
+          "pdf_pages": [
+            465,
+            466
+          ]
+        },
+        {
+          "path": "sections/49.7.md",
+          "title": "49.7 AFSv2 的扩展性和性能",
+          "pdf_pages": [
+            466,
+            467
+          ]
+        },
+        {
+          "path": "sections/49.8.md",
+          "title": "49.8 AFS：其他改进",
+          "pdf_pages": [
+            468,
+            468
+          ]
+        },
+        {
+          "path": "sections/49.9.md",
+          "title": "49.9 小结",
+          "pdf_pages": [
+            468,
+            469
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            469,
+            469
+          ]
+        },
+        {
+          "path": "sections/homework.md",
+          "title": "作业",
+          "pdf_pages": [
+            470,
+            470
+          ]
+        },
+        {
+          "path": "sections/section-12.md",
+          "title": "问题",
+          "pdf_pages": [
+            470,
+            470
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "kind": "chapter",
+      "title": "第 50 章 关于分布式的总结对话",
+      "directory": "第50章-关于分布式的总结对话",
+      "part": "分布式系统",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "第 50 章 关于分布式的总结对话",
+          "pdf_pages": [
+            471,
+            471
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A",
+      "kind": "appendix",
+      "title": "附录 A 关于虚拟机监视器的对话",
+      "directory": "附录A-关于虚拟机监视器的对话",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 A 关于虚拟机监视器的对话",
+          "pdf_pages": [
+            472,
+            472
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "kind": "appendix",
+      "title": "附录 B 虚拟机监视器",
+      "directory": "附录B-虚拟机监视器",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/B.1.md",
+          "title": "B.1 简介",
+          "pdf_pages": [
+            473,
+            473
+          ]
+        },
+        {
+          "path": "sections/B.2.md",
+          "title": "B.2 动机：为何用VMM",
+          "pdf_pages": [
+            473,
+            474
+          ]
+        },
+        {
+          "path": "sections/B.3.md",
+          "title": "B.3 虚拟化CPU",
+          "pdf_pages": [
+            474,
+            477
+          ]
+        },
+        {
+          "path": "sections/B.4.md",
+          "title": "B.4 虚拟化内存",
+          "pdf_pages": [
+            477,
+            480
+          ]
+        },
+        {
+          "path": "sections/B.5.md",
+          "title": "B.5 信息沟",
+          "pdf_pages": [
+            480,
+            480
+          ]
+        },
+        {
+          "path": "sections/B.6.md",
+          "title": "B.6 小结",
+          "pdf_pages": [
+            481,
+            481
+          ]
+        },
+        {
+          "path": "sections/references.md",
+          "title": "参考资料",
+          "pdf_pages": [
+            481,
+            483
+          ]
+        }
+      ]
+    },
+    {
+      "id": "C",
+      "kind": "appendix",
+      "title": "附录 C 关于监视器的对话",
+      "directory": "附录C-关于监视器的对话",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 C 关于监视器的对话",
+          "pdf_pages": [
+            484,
+            484
+          ]
+        }
+      ]
+    },
+    {
+      "id": "D",
+      "kind": "appendix",
+      "title": "附录 D 关于实验室的对话",
+      "directory": "附录D-关于实验室的对话",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 D 关于实验室的对话",
+          "pdf_pages": [
+            485,
+            485
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E",
+      "kind": "appendix",
+      "title": "附录 E 实验室：指南",
+      "directory": "附录E-实验室指南",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 E 实验室：指南",
+          "pdf_pages": [
+            486,
+            486
+          ]
+        },
+        {
+          "path": "sections/E.1.md",
+          "title": "E.1 一个简单的C 程序",
+          "pdf_pages": [
+            486,
+            487
+          ]
+        },
+        {
+          "path": "sections/E.2.md",
+          "title": "E.2 编译和执行",
+          "pdf_pages": [
+            487,
+            487
+          ]
+        },
+        {
+          "path": "sections/E.3.md",
+          "title": "E.3 有用的标志",
+          "pdf_pages": [
+            487,
+            488
+          ]
+        },
+        {
+          "path": "sections/E.4.md",
+          "title": "E.4 与库链接",
+          "pdf_pages": [
+            488,
+            489
+          ]
+        },
+        {
+          "path": "sections/E.5.md",
+          "title": "E.5 分别编译",
+          "pdf_pages": [
+            489,
+            489
+          ]
+        },
+        {
+          "path": "sections/E.6.md",
+          "title": "E.6 Makefile 文件",
+          "pdf_pages": [
+            489,
+            491
+          ]
+        },
+        {
+          "path": "sections/E.7.md",
+          "title": "E.7 调试",
+          "pdf_pages": [
+            491,
+            493
+          ]
+        },
+        {
+          "path": "sections/E.8.md",
+          "title": "E.8 文档",
+          "pdf_pages": [
+            493,
+            495
+          ]
+        },
+        {
+          "path": "sections/E.9.md",
+          "title": "E.9 推荐阅读",
+          "pdf_pages": [
+            495,
+            495
+          ]
+        }
+      ]
+    },
+    {
+      "id": "F",
+      "kind": "appendix",
+      "title": "附录 F 实验室：系统项目",
+      "directory": "附录F-实验室系统项目",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 F 实验室：系统项目",
+          "pdf_pages": [
+            496,
+            496
+          ]
+        },
+        {
+          "path": "sections/F.1.md",
+          "title": "F.1 介绍项目",
+          "pdf_pages": [
+            496,
+            496
+          ]
+        },
+        {
+          "path": "sections/F.2.md",
+          "title": "F.2 UNIX Shell",
+          "pdf_pages": [
+            496,
+            496
+          ]
+        },
+        {
+          "path": "sections/F.3.md",
+          "title": "F.3 内存分配库",
+          "pdf_pages": [
+            496,
+            496
+          ]
+        },
+        {
+          "path": "sections/F.4.md",
+          "title": "F.4 并发简介",
+          "pdf_pages": [
+            497,
+            497
+          ]
+        },
+        {
+          "path": "sections/F.5.md",
+          "title": "F.5 并发Web 服务器",
+          "pdf_pages": [
+            497,
+            497
+          ]
+        },
+        {
+          "path": "sections/F.6.md",
+          "title": "F.6 文件系统检查器",
+          "pdf_pages": [
+            497,
+            497
+          ]
+        },
+        {
+          "path": "sections/F.7.md",
+          "title": "F.7 文件系统碎片整理程序",
+          "pdf_pages": [
+            497,
+            497
+          ]
+        },
+        {
+          "path": "sections/F.8.md",
+          "title": "F.8 并发文件服务器",
+          "pdf_pages": [
+            497,
+            497
+          ]
+        }
+      ]
+    },
+    {
+      "id": "G",
+      "kind": "appendix",
+      "title": "附录 G 实验室：xv6项目",
+      "directory": "附录G-实验室xv6项目",
+      "part": "附录",
+      "status": "converted",
+      "sections": [
+        {
+          "path": "sections/introduction.md",
+          "title": "附录 G 实验室：xv6项目",
+          "pdf_pages": [
+            498,
+            498
+          ]
+        },
+        {
+          "path": "sections/G.1.md",
+          "title": "G.1 简介项目",
+          "pdf_pages": [
+            498,
+            498
+          ]
+        },
+        {
+          "path": "sections/G.2.md",
+          "title": "G.2 进程和调度",
+          "pdf_pages": [
+            498,
+            498
+          ]
+        },
+        {
+          "path": "sections/G.3.md",
+          "title": "G.3 虚拟内存简介",
+          "pdf_pages": [
+            498,
+            498
+          ]
+        },
+        {
+          "path": "sections/G.4.md",
+          "title": "G.4 写时复制映射",
+          "pdf_pages": [
+            498,
+            498
+          ]
+        },
+        {
+          "path": "sections/G.5.md",
+          "title": "G.5 内存映射",
+          "pdf_pages": [
+            499,
+            499
+          ]
+        },
+        {
+          "path": "sections/G.6.md",
+          "title": "G.6 内核线程",
+          "pdf_pages": [
+            499,
+            499
+          ]
+        },
+        {
+          "path": "sections/G.7.md",
+          "title": "G.7 高级内核线程",
+          "pdf_pages": [
+            499,
+            499
+          ]
+        },
+        {
+          "path": "sections/G.8.md",
+          "title": "G.8 基于范围的文件系统",
+          "pdf_pages": [
+            499,
+            499
+          ]
+        },
+        {
+          "path": "sections/G.9.md",
+          "title": "G.9 快速文件系统",
+          "pdf_pages": [
+            499,
+            499
+          ]
+        },
+        {
+          "path": "sections/G.10.md",
+          "title": "G.10 日志文件系统",
+          "pdf_pages": [
+            499,
+            500
+          ]
+        },
+        {
+          "path": "sections/G.11.md",
+          "title": "G.11 文件系统检查器",
+          "pdf_pages": [
+            500,
+            500
+          ]
+        }
+      ]
+    }
+  ]
+}

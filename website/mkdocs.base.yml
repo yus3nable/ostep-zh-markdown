@@ -1,0 +1,45 @@
+site_name: OSTEP 中文阅读
+site_url: https://yus3nable.github.io/ostep-zh-markdown/
+site_description: 操作系统导论：虚拟化、并发与持久性
+use_directory_urls: false
+strict: true
+theme:
+  name: material
+  language: zh
+  font: false
+  palette:
+    - scheme: default
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 切换至深色模式
+    - scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至浅色模式
+  features:
+    - navigation.indexes
+    - navigation.footer
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+plugins:
+  - search:
+      lang: zh
+markdown_extensions:
+  - md_in_html
+  - tables
+  - footnotes
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+extra_css:
+  - styles/reader.css
+extra:
+  generator: false

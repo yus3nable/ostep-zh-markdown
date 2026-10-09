@@ -1,0 +1,26 @@
+{% if page.meta.ostep %}
+  {% set book = page.meta.ostep %}
+  <div class="ostep-page ostep-{{ book.kind }}">
+    <header class="reading-heading">
+      <div class="heading-copy">
+        <div class="reading-context">{{ book.context }}</div>
+        {% if book.display_title %}{{ page.content.split('>', 1)[0] | safe }}>{{ book.display_title }}</h1>{% else %}{{ page.content.split('</h1>', 1)[0] | safe }}</h1>{% endif %}
+        {% if book.description %}<p class="heading-description">{{ book.description }}</p>{% endif %}
+        {% if book.detail %}<div class="reading-detail">{{ book.detail }}</div>{% endif %}
+        {% if page.meta.whole_chapter %}<a class="reading-mode" href="{{ page.meta.whole_chapter | url }}">整章阅读 ↗</a>{% endif %}
+        {% if book.section_url %}<a class="reading-mode" href="{{ book.section_url | url }}">返回分节阅读 ↗</a>{% endif %}
+      </div>
+      {% if book.art %}
+      <div class="chapter-art" aria-hidden="true"><img src="{{ 'assets/paging-editorial.png' | url }}" alt="分页与映射的抽象装饰线稿" width="600" height="400"></div>
+      {% endif %}
+    </header>
+    {% if book.kind == 'part' %}
+      {% include 'partials/part-overview.html' %}
+    {% else %}
+      <div class="book-prose">{{ page.content.split('</h1>', 1)[1] | safe }}</div>
+    {% endif %}
+  </div>
+{% else %}
+  {% if '<h1' not in page.content %}<h1>{{ page.title | d(config.site_name, true) }}</h1>{% endif %}
+  {{ page.content }}
+{% endif %}
