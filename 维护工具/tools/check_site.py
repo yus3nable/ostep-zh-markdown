@@ -31,6 +31,9 @@ errors=[]
 for p in SITE.rglob('*.html'):
     page=Page(); page.feed(p.read_text()); pages[p.resolve()]=page
 if not pages: raise SystemExit('网站尚未生成')
+if list(SITE.rglob('*original-page*')): errors.append('网站包含整页扫描图')
+for path in pages:
+    if '查看原书扉页' in path.read_text(): errors.append(f'{path.relative_to(SITE)}: 遗留原页入口')
 for p,page in pages.items():
     for tag,ref in page.refs:
         u=urlsplit(ref)

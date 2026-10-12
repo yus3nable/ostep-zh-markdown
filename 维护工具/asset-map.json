@@ -81,54 +81,6 @@
     "sha256": "196f3ea8ae7a21d5a914f73c8929a3cf7b69fc0fa537f152ff1cc5a1a0cd6e07"
   },
   {
-    "path": "书前与导语/封面/assets/p001-original-page.png",
-    "pdf_page": 1,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "5e51c26d844eaf72edfeab76af4c0f5c05385b68049318c24200591dd9530cdf"
-  },
-  {
-    "path": "书前与导语/扉页/assets/p002-original-page.png",
-    "pdf_page": 2,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "20352850d4ea583f315df7bd32cd54f98f8de2a2e5ec1cb903816c280e4f5d9a"
-  },
-  {
-    "path": "书前与导语/版权声明/assets/p003-original-page.png",
-    "pdf_page": 3,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "71d282da57bd4912ec5b5270fb593d844aa5387fed3f616811375286f7a0a15a"
-  },
-  {
     "path": "书前与导语/资源与支持/assets/p011-image-1.png",
     "pdf_page": 11,
     "printed_page": null,
@@ -191,118 +143,6 @@
     "width": 146,
     "height": 146,
     "sha256": "c886f0685c8ef03669f51f88bc26a080dae8d08f08e59eb7f5642d30015a9ec5"
-  },
-  {
-    "path": "书前与导语/目录/assets/p013-original-page.png",
-    "pdf_page": 13,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "a29c6cd195a611f63880241132aa8af1588a5c26ce284a2baefcfcb1cb94f36d"
-  },
-  {
-    "path": "书前与导语/目录/assets/p014-original-page.png",
-    "pdf_page": 14,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "67511531be520222bf5ee3206af9b325959e81ba2d2d549f17bfa66234435725"
-  },
-  {
-    "path": "书前与导语/目录/assets/p015-original-page.png",
-    "pdf_page": 15,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "8e5657e5f140cad8143374873cfac2e079e940e0b8a7748afc127292a73e236c"
-  },
-  {
-    "path": "书前与导语/目录/assets/p016-original-page.png",
-    "pdf_page": 16,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "b80d6b310b07ea40cfd9bed5fcb5e4e9f23e097701244ec25303fdce63078c6c"
-  },
-  {
-    "path": "书前与导语/目录/assets/p017-original-page.png",
-    "pdf_page": 17,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "d5c47768c8a48bf8fe297f162dbda9a32484b45387069687ddd00ca413a65808"
-  },
-  {
-    "path": "书前与导语/目录/assets/p018-original-page.png",
-    "pdf_page": 18,
-    "printed_page": null,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "a02b11207edc8813d3b1abef138a0172da8d39f036ba7c4e8d7a6ec4b78128f0"
-  },
-  {
-    "path": "书前与导语/第一部分-虚拟化/assets/p035-original-page.png",
-    "pdf_page": 35,
-    "printed_page": 17,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "a3253b6898ae7471848fb3389c315f9a3608a2f6c688e38dc1eaee3b1932ee21"
   },
   {
     "path": "第04章-抽象进程/assets/p039-image-1.png",
@@ -2001,22 +1841,6 @@
     "sha256": "fb55c33f236a9d260b918b4e42d6274438c53973fb10e7d848915eaf07518703"
   },
   {
-    "path": "书前与导语/第2部分-并发/assets/p213-original-page.png",
-    "pdf_page": 213,
-    "printed_page": 195,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "af696ae976d2c7a8c7f8068614225835de1d710c650d66e097a02e2dbfbaf34b"
-  },
-  {
     "path": "第26章-并发介绍/assets/p216-image-1.png",
     "pdf_page": 216,
     "printed_page": 198,
@@ -2431,22 +2255,6 @@
     "width": 1037,
     "height": 123,
     "sha256": "5acf5ec513939c206ae7dc5029af47bbd430e2507779f1d7ca9bc6656d6a773f"
-  },
-  {
-    "path": "书前与导语/第3部分-持久性/assets/p319-original-page.png",
-    "pdf_page": 319,
-    "printed_page": 301,
-    "kind": "front_facsimile",
-    "bbox": [
-      0,
-      0,
-      524,
-      700
-    ],
-    "xref": null,
-    "width": 1310,
-    "height": 1750,
-    "sha256": "1d2a9c768d9741b3d8a3d116edb707b3edabfecd4fa3a2bbbf0bb739faf6b7f4"
   },
   {
     "path": "第36章-IO设备/assets/p321-image-1.png",

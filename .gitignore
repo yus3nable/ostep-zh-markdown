@@ -6,3 +6,6 @@ tmp/
 website/build/
 .quarto/
 *.pdf
+
+# Whole-page renders remain in local temporary storage.
+**/*original-page.*

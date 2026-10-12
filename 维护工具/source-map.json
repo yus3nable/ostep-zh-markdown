@@ -15,7 +15,7 @@
         1
       ],
       "printed_pages": null,
-      "status": "converted",
+      "status": "local_reference_only",
       "outline_sections": [],
       "directory": "书前与导语/封面"
     },
@@ -28,7 +28,7 @@
         2
       ],
       "printed_pages": null,
-      "status": "converted",
+      "status": "local_reference_only",
       "outline_sections": [],
       "directory": "书前与导语/扉页"
     },
@@ -41,7 +41,7 @@
         3
       ],
       "printed_pages": null,
-      "status": "converted",
+      "status": "local_reference_only",
       "outline_sections": [],
       "directory": "书前与导语/版权声明"
     },
@@ -93,7 +93,7 @@
         18
       ],
       "printed_pages": null,
-      "status": "converted",
+      "status": "local_reference_only",
       "outline_sections": [],
       "directory": "书前与导语/目录"
     },
@@ -174,7 +174,7 @@
         17,
         17
       ],
-      "status": "converted",
+      "status": "part_navigation",
       "outline_sections": [],
       "directory": "书前与导语/第一部分-虚拟化"
     },
@@ -1223,7 +1223,7 @@
         195,
         195
       ],
-      "status": "converted",
+      "status": "part_navigation",
       "outline_sections": [],
       "directory": "书前与导语/第2部分-并发"
     },
@@ -1684,7 +1684,7 @@
         301,
         301
       ],
-      "status": "converted",
+      "status": "part_navigation",
       "outline_sections": [],
       "directory": "书前与导语/第3部分-持久性"
     },

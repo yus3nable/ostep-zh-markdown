@@ -30,7 +30,7 @@ manifest=[]
 groups={}
 for chapter in order['chapters']:
     directory=chapter['directory']
-    shutil.copytree(ROOT/directory,DOCS/directory)
+    shutil.copytree(ROOT/directory,DOCS/directory,ignore=shutil.ignore_patterns('*original-page*'))
     contents=[]
     for section in chapter['sections']:
         path=f'{directory}/{section["path"]}'
@@ -84,7 +84,7 @@ for chapter in order['chapters']:
           'detail':'整章阅读','section_url':first_path.replace('.md','.html')}
     body=p.read_text().split('---\n',2)[2].lstrip()
     p.write_text('---\n'+yaml.safe_dump({'ostep':meta,'search':{'exclude':True}},allow_unicode=True,sort_keys=False)+'---\n\n'+body)
-# 纸书分部扉页在网站中成为可操作的章节入口；旧路径仍可阅读。
+# 分部扉页转为章节导览，保留原有导览路径。
 for chapter in order['chapters']:
     if chapter['id'] not in PARTS:
         continue
@@ -95,10 +95,6 @@ for chapter in order['chapters']:
     meta={'kind':'part','context':context,'display_title':title,'description':description,
           'detail':f'第 {members[0]["id"]}–{members[-1]["id"]} 章 · {len(members)} 章',
           'chapters':links}
-    # 保留底本扉页作为低干扰的来源链接，不占据阅读主区。
-    source=(ROOT/chapter['directory']/chapter['sections'][0]['path']).read_text()
-    asset=re.search(r'!\[[^\]]*\]\(\.\./([^)]+)\)',source).group(1)
-    meta['source_url']=f'{chapter["directory"]}/{asset}'
     paths=['README.md','chapter.md']+[s['path'] for s in chapter['sections']]
     for path in paths:
         data={'title':f'{context} · {title}', 'ostep':meta}

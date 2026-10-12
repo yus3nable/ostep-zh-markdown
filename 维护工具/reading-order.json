@@ -1,60 +1,6 @@
 {
   "chapters": [
     {
-      "id": "front-1",
-      "kind": "front_matter",
-      "title": "封面",
-      "directory": "书前与导语/封面",
-      "part": "导读",
-      "status": "converted",
-      "sections": [
-        {
-          "path": "sections/introduction.md",
-          "title": "封面",
-          "pdf_pages": [
-            1,
-            1
-          ]
-        }
-      ]
-    },
-    {
-      "id": "front-2",
-      "kind": "front_matter",
-      "title": "扉页",
-      "directory": "书前与导语/扉页",
-      "part": "导读",
-      "status": "converted",
-      "sections": [
-        {
-          "path": "sections/introduction.md",
-          "title": "扉页",
-          "pdf_pages": [
-            2,
-            2
-          ]
-        }
-      ]
-    },
-    {
-      "id": "front-3",
-      "kind": "front_matter",
-      "title": "版权声明",
-      "directory": "书前与导语/版权声明",
-      "part": "导读",
-      "status": "converted",
-      "sections": [
-        {
-          "path": "sections/introduction.md",
-          "title": "版权声明",
-          "pdf_pages": [
-            3,
-            3
-          ]
-        }
-      ]
-    },
-    {
       "id": "front-4",
       "kind": "front_matter",
       "title": "内容提要",
@@ -144,24 +90,6 @@
           "pdf_pages": [
             11,
             12
-          ]
-        }
-      ]
-    },
-    {
-      "id": "front-13",
-      "kind": "front_matter",
-      "title": "目录",
-      "directory": "书前与导语/目录",
-      "part": "导读",
-      "status": "converted",
-      "sections": [
-        {
-          "path": "sections/introduction.md",
-          "title": "目录",
-          "pdf_pages": [
-            13,
-            18
           ]
         }
       ]

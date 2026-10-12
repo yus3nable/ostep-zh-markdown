@@ -59,4 +59,4 @@ python3 维护工具/tools/check_site.py
 .tools/venv/bin/python -m ghp_import -n -p -b gh-pages website/build/site
 ```
 
-书稿修改另行提交并推送到 `main`；仅推送 `main` 不会更新网站。发布后检查 GitHub 的 Pages 部署状态和实际阅读网址。`website/mkdocs.base.yml` 中的 `site_url` 必须包含仓库子路径，保证 404 页资源与导航可用。源 PDF、临时文本和本地运行环境均不上传。
+书稿修改另行提交并推送到 `main`；仅推送 `main` 不会更新网站。发布后检查 GitHub 的 Pages 部署状态和实际阅读网址。`website/mkdocs.base.yml` 中的 `site_url` 必须包含仓库子路径，保证 404 页资源与导航可用。源 PDF、整页渲染、临时文本和本地运行环境均不上传。整页图及原来的扫描页资料归档于 `tmp/removed-original-pages/`，不参与网站构建；`asset-map.json` 仅列出发布所需的局部图片。

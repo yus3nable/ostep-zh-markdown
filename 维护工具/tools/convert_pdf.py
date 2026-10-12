@@ -285,14 +285,16 @@ class Converter:
                 if ident=='G':title=title.replace('vx6','xv6');directory=directory.replace('vx6','xv6')
             else:
                 ident='front-'+str(first);directory='书前与导语/'+title.replace(' ','-');front.append({'id':ident,'title':title,'directory':directory})
+            if kind=='front_matter' and (first<=3 or first==13):
+                unit['status']='local_reference_only'
+                self.audit.extend({'pdf_page':pno,'representation':'local_reference_only'} for pno in range(first,last+1))
+                continue
             (ROOT/directory/'sections').mkdir(parents=True,exist_ok=True)
             events=[]
             for pno in range(first,last+1):
-                if kind=='front_matter' and (first<=3 or first in (13,35,213,319)):
-                    page=self.doc[pno-1]
-                    text=self.asset(page,[0,0,524,700],directory,'original-page','front_facsimile',f'{title}，PDF 第 {pno} 页')
-                    events.append({'kind':'image','text':text,'page':pno,'bbox':[0,0,524,700]})
-                    self.audit.append({'pdf_page':pno,'representation':'front_facsimile'})
+                if kind=='front_matter' and first in (35,213,319):
+                    events.append({'kind':'raw','text':'[全书目录](../../../目录.md)','page':pno,'bbox':[0,0,524,700]})
+                    self.audit.append({'pdf_page':pno,'representation':'part_navigation'})
                 else:events+=self.page_events(self.doc[pno-1],directory)
             # 以可见大号标题为准切小节，避免 PDF 书签错字和页码粒度丢失。
             sections=[];buf=[];current=title;start=first;index=0
